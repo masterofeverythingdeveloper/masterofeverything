@@ -1,0 +1,226 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Advanced Prompts Image Prompts",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Advanced%20Prompts%20Image%20Prompts.html"
+    } , {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Advanced Prompts Multi Prompts",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Advanced%20Prompts%20Multi%20Prompts.html"
+    } , {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Advanced Prompts Remix",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Advanced%20Prompts%20Remix.html"
+    } , {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Aspect Ratios",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Aspect%20Ratios.html"
+    } , {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blend",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Blend.html"
+    } , {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Chaos",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Chaos.html"
+    } , {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Command list",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/beginner/Command%20list.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Command list",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/Discord%20Interface.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Explore Prompting",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/Explore%20Prompting.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Getting Started",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/Getting%20Started.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Next Steps Prompts",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/Next%20Steps%20Prompts.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "parameter list",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/parameter%20list.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "quality",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/quality.html"
+    } , {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "seeds",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/intermediate/seeds.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Setting and presets",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/Setting%20and%20presets.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Show Job",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/Show%20Job.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Stop",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/Stop.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Stylize",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/Stylize.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Upscalers",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/Upscalers.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Version",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/Version.html"
+    } , {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "tile",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/30.%20Learn%20Midjourney/advanced/tile.html"
+    } 
+      
+      
+      
+  ]}
+      
