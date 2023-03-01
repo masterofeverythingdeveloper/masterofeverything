@@ -1,0 +1,299 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Alignment",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Alignment.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Auto Layout",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Auto%20Layout.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "COMPONEN",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/COMPONEN.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Childre",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Children.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Color Picker",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Color%20Picker.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Components",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Components.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Constraints",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Constraints.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Design Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Design%20Tools.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Figma Plugins",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Figma%20Plugins.html"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Figma",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/beginner/Figma.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Frame",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Frame.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Getting started with Figma as your design tool",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Getting%20started%20with%20Figma%20as%20your%20design%20tool.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Gradients",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Gradients.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Grids",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Grids.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Image",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Image.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Inspect",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Inspect.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Keyboard",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Keyboard.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Live Embeds",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Live%20Embeds.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Parent",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Parent.html"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Prototype",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/intermediate/Prototype.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Real-Time Collaboration",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Real-Time%20Collaboration.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Resize",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Resize.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Shape Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Shape%20Tools.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Styles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Styles.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Team Library",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Team%20Library.html"
+    }  ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Toolbar",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Toolbar.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Variants",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Variants.html"
+    }  ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Vector Network",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Vector%20Network.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Version Control",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Version%20Control.html"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Why use Figma",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/27.%20Learn%20Figma/advanced/Why%20use%20Figma.html"
+    } 
+      
+      
+      
+  ]}
+      
