@@ -1,0 +1,238 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Make Music with Logic Now 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/1.%20Make%20Music%20with%20Logic%20Now%201.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Make Music with Logic Now 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/1.%20Make%20Music%20with%20Logic%20Now%202.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Make Music with Logic Now 3",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/1.%20Make%20Music%20with%20Logic%20Now%203.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Recording Audio 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/2.%20Recording%20Audio%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Recording Audio 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/2.%20Recording%20Audio%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Editing Audio 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/3.%20Editing%20Audio%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Editing Audio 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/3.%20Editing%20Audio%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Producing a Virtual  Drum Track 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/4.%20Producing%20a%20Virtual%20%20Drum%20Track%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Producing a Virtual  Drum Track 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/4.%20Producing%20a%20Virtual%20%20Drum%20Track%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Producing a Virtual  Drum Track 3",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/beginner/4.%20Producing%20a%20Virtual%20%20Drum%20Track%203.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Using Patches and Recording MIDI 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/5.%20Using%20Patches%20and%20Recording%20MIDI%201.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Using Patches and Recording MIDI 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/5.%20Using%20Patches%20and%20Recording%20MIDI%202.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Using Patches and Recording MIDI 3",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/5.%20Using%20Patches%20and%20Recording%20MIDI%203.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Creating and Editing MIDI 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/6.%20Creating%20and%20Editing%20MIDI%201.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Creating and Editing MIDI 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/6.%20Creating%20and%20Editing%20MIDI%202.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Editing Pitch and Time 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/7.%20Editing%20Pitch%20and%20Time%201.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Editing Pitch and Time 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/intermediate/7.%20Editing%20Pitch%20and%20Time%202.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Editing an Arrangement 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/advanced/8.%20Editing%20an%20Arrangement%201.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Editing an Arrangement 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/advanced/8.%20Editing%20an%20Arrangement%202.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Mixing 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/advanced/9.%20Mixing%201.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Mixing 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/advanced/9.%20Mixing%202.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Automating the Mix 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/advanced/10.%20Automating%20the%20Mix%201.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Automating the Mix 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/21.%20logicpro/advanced/10.%20Automating%20the%20Mix%202.pdf"
+    }
+  ]
+}
