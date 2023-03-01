@@ -20,10 +20,114 @@
       "link_redirect": "https://"
     }
   ], "More": [
-    {
-     "title": "Learn Affinity Design Tutorial",
-      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+        {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/Ymx6ugPA-r-W7GP5b6cTSeKiQwIwsLQTJbN1y3jyhrdHwZhSTMGw81D5p4eLNWSk2dLa=w240-h480-rw",
       "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    },{
+      "title": "Learn Figma Tutorial",
+      "image": "https://play-lh.googleusercontent.com/w1lsoUzdibj56raCKDcns1_vu2iRG3yenIesXi67ESmcvstiaWAUXxadORFvUgGMmhX7=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnfigmadesigntutorial"
+    },{
+      "title": "Tutorial Midjourney AI Art",
+      "image": "https://play-lh.googleusercontent.com/AiYEiHAH4j-3iVUqOUd7pqtAo9rEDE2_nlvxlxsNBRGjV7geQGTtpk_CD_zdwrADwNZ_=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnmidjourneyaIarttutorial"
+    },{
+      "title": "Learn Davinci Resolve Tutorial",
+      "image": "https://play-lh.googleusercontent.com/_j2YYmV9-OFRjkGeQVwONyBKke78dp02MGJPl1UcGClRLZhZiFa8-FcDMPE4JhjOwgY=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learndavinciresolve"
+    },{
+      "title": "Learn VSCO Editing Tutorial",
+      "image": "https://play-lh.googleusercontent.com/vkyEBB2CZS1WE-xzmFTOfnXogWrr8RqZlw4TyxXr6QtNGnOkP01NEoD9wnVxn7gPSGk=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnvsco"
+    },{
+      "title": "Learn Pixlr Photo Editor",
+      "image": "https://play-lh.googleusercontent.com/q_aKVNinv3GiM2MfGSFZJJKqBr1KOE89OkWrbxP_KURGF6E1pjRzZIZfqKuGUjk9oiM=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnpixlr"
+    },{
+      "title": "Learn Studio One Tutorial",
+      "image": "https://play-lh.googleusercontent.com/fpPAHagdmrn8vcQZ6a_GQQ1kxJt6h5q5KyFeWBI2QA7c4-9hSo7gRt6raWWCUsb2tOEE=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnstudioone"
+    },{
+      "title": "Learn Audacity Tutorial",
+      "image": "https://play-lh.googleusercontent.com/AnBjnFcK7Y3k5dixmaufq_7DBS2kM7Ch20Q_0gmaNCw_mLrFV8hk9IJKN2S75IrQUIw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaudacity"
+    },{
+      "title": "Learn Garageband",
+      "image": "https://play-lh.googleusercontent.com/WqnZEpyRteKerTnUYACU63sVNu8aR7SuOCBj_v2hBkpB8B4MD1E3CWawfJUvGLF4MQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learngarageband"
+    },{
+      "title": "Learn FL studio 21 Tutorial",
+      "image": "https://play-lh.googleusercontent.com/nrtbxALVLT07v0wtoyvv0jqqSdsPcRig1oTgCG5AXTZjD2Tgfv9rdqBCmT7-rdGpXps=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnflstudio21"
+    },{
+      "title": "Learn Logic Pro Tutorial",
+      "image": "https://play-lh.googleusercontent.com/jIUwnymmnjSJxar3eJLQ-LuZC_Ii6rlAe_1QmgnZWK-8lTCSvIqhbyNNXpiHiF3sZUBN=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnlogicpro"
+    },{
+      "title": "Learn Ableton Live",
+      "image": "https://play-lh.googleusercontent.com/IMID3bEnc0K9Ypw3A6KNBYGKcs4K7VLAji5cu9qn_UBG-vnrWfH9T50hEXdRvLv6ioI=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnabletonlive"
+    },{
+      "title": "Learn Framer Design",
+      "image": "https://play-lh.googleusercontent.com/LyOEg0G-O9glKFp2ylUofFtnEE3wyubfWcpmPw0YFogJo-wDT-HHeQAt3kkCfXn8aT4=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnframer"
+    },{
+      "title": "Learn Unity 3d Tutorial",
+      "image": "https://play-lh.googleusercontent.com/rBR6_fQZSy0TYVz6XOJuqRJ_PcIE3-IW-oYK-5HlTQgvClewk8_iiYDSyz0cyYuyJhs=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnunity"
+    },{
+      "title": "Learn Autocad 3d",
+      "image": "https://play-lh.googleusercontent.com/_a8webXuMMi9rXe1bEx-x3h18_gdnmxIzwHP7ldzqOfSyYujBbx3MrKUbqRBdu0h_rI=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnautocad"
+    },{
+      "title": "Learn Medibang Paint",
+      "image": "https://play-lh.googleusercontent.com/uQztEl-W7PUbZgcBHXcd6J1AEdrdzMfFY1EJwW0afLmFkgnUxWN8ASCNfWAJzokjhAs=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnmedibang"
+    },{
+      "title": "Learn Clip Studio Paint Course",
+      "image": "https://play-lh.googleusercontent.com/0hEGX9x3Vjf4jzt2ttgwlZ_v-cUiffl3m44mGJTFX1M7vqnhWRDCOF7Hq_oWkYyQBA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnclipstudiopaint"
+    },{
+      "title": "Learn Canva Pro Tutorials",
+      "image": "https://play-lh.googleusercontent.com/ed6jkjjuwSVoLTi4NbIM1Y8Q_PDgSAcJ3heRI-9_oN1hv2FJxcrhCUMheWk2GTEpiiU=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learncanva"
+    },{
+      "title": "Learn SketchUp 3D Design",
+      "image": "https://play-lh.googleusercontent.com/evH5JIP9JC9Y7i8MaZlSKxd78QH1nHGGVNo1-cIFHZvCTuAmB0LuU8KwkK7SF5zBmt0=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnsketchup"
+    },{
+      "title": "Learn Photoscape Tutorial",
+      "image": "https://play-lh.googleusercontent.com/e0s96yPulBiu_YD1fcdVYlIskd3wM2fEOBOeo3MYKBY_ZlmxYmazxZvr1D-B_fkB9EU=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnphotoscape"
+    },{
+      "title": "Learn Illustrator Adobe Course",
+      "image": "https://play-lh.googleusercontent.com/YLMlts3_VD1TMztOSHMaIUesxObfgOK2UU1Te_T9DRMZzyGwbbNZJmJWrSEi_vQ8lhkC=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnilustrator"
+    },{
+      "title": "Learn FilmoraGo Video Editing",
+      "image": "https://play-lh.googleusercontent.com/yR7h4Y9fexWx67iiNLue9i0DRMe8Yjp-eGcb41nMetOQpNrWLxwS8jjJdrKQW3DvFw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnfilmorago"
+    },{
+      "title": "Learn Premiere Pro Adobe",
+      "image": "https://play-lh.googleusercontent.com/pSOBLszQ0RuI9CIIAehkK6PyM8aOLY4uaUN3Ljyz9KDx3_FgR5GpROaiR4xjRUHQWLw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnpremier"
+    },{
+      "title": "Learn After Effects Tutorial",
+      "image": "https://play-lh.googleusercontent.com/gS6qRcSaw08ttLDv3k7uwi3uYozPA4qOVPbAVAUK0jBzrDoO-dpMD9TsX715gb37vdlL=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaftereffect"
+    },{
+      "title": "Learn Coreldraw Design Course",
+      "image": "https://play-lh.googleusercontent.com/I0ihAnkciFAfD2QsGiwwRgtlZd5c_8HlHB20JtcbnpquEPqSEn-L4bBAmPptfl2sMi4=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learncorel"
+    },{
+      "title": "Learn Photosop Tutorial",
+      "image": "https://play-lh.googleusercontent.com/hZTUS8WzCCAj2grm_xvFBsC7JZq5FVs72Agl33XxCocwVFda9O1MzpG5g1Zxf-jIa4w=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnphotshop"
+    },{
+      "title": "Learn Blender 3D Tutorial",
+      "image": "https://play-lh.googleusercontent.com/tKPLFa0tkpI_i3yMIMpRZrRrJEmVbuC1v7xNsSg6R3rOq4YT5OEvOkaVq-8yS4DN3IQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnblender"
     }
   ],
   "Categories": [
