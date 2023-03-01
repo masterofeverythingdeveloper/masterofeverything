@@ -1,0 +1,286 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+     "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Introduction to Unity",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/1.%20Introduction%20to%20Unity.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Game 2 Chaos Ball",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/10.%20Game%202%20Chaos%20Ball.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Game Objects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/2.%20Game%20Objects.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Models, Materials, and Textures",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/3.%20Models,%20Materials,%20and%20Textures.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Terrain and Environments",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/4.%20Terrain%20and%20Environments.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Lights and Cameras 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/5.%20Lights%20and%20Cameras%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Lights and Cameras 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/5.%20Lights%20and%20Cameras%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Game 1 Amazing Racer 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/6.%20Game%201%20Amazing%20Racer%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Game 1 Amazing Racer 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/6.%20Game%201%20Amazing%20Racer%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Scripting, Part 1 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/7.%20Scripting,%20Part%201%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Scripting, Part 1 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/7.%20Scripting,%20Part%201%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Scripting, Part 2 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/8.%20Scripting,%20Part%202%201.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Scripting, Part 2 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/8.%20Scripting,%20Part%202%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Collision",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/beginner/9.%20Collision.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Prefabs",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/11.%20Prefabs.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "2D Game Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/12.%202D%20Game%20Tools.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "2D Tilemap",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/13.%202D%20Tilemap.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "User Interfaces",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/14.%20User%20Interfaces.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Game 3 Captain Blaster 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/15.%20Game%203%20Captain%20Blaster%201.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Game 3 Captain Blaster 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/15.%20Game%203%20Captain%20Blaster%202.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Particle Systems",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/16.%20Particle%20Systems.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animations",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/intermediate/17.%20Animations.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Animators",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/18.%20Animators.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Timeline",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/19.%20Timeline.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Game 4 Gauntlet Runner",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/20.%20Game%204%20Gauntlet%20Runner.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Audio",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/21.%20Audio.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Mobile Development",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/22.%20Mobile%20Development.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Polish and Deploy",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/23.%20Polish%20and%20Deploy.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Wrap Up",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/17.unity/advanced/24.%20Wrap%20Up.pdf"
+    }
+  ]
+}
