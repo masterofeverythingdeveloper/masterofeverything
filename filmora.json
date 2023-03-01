@@ -1,0 +1,262 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Get Started",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/1.%20Get%20Started.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "New Features",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/2.%20New%20Features.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "System Requirements Specifications",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/3.%20System%20Requirements%20Specifications.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Startup Window",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/4.%20Startup%20Window.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Panel Layout",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/5.%20Panel%20Layout.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating Projects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/6.%20Creating%20Projects.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Importing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/7.%20Importing.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Recording",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/8.%20Recording.pdf"
+    } ,  {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Editing Video",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/beginner/9.%20Editing%20Video.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Color Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/10.%20Color%20Editing.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Editing Video",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/9.1%20Editing%20Video.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Audio Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/11.%20Audio%20Editing.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animation Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/12.%20Animation%20Editing.pdf"
+    }  ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Speed Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/13.%20Speed%20Editing.pdf"
+    }  ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "AI Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/14.%20AI%20Editing.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Effects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/15.%20Effects.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Transitions",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/16.%20Transitions.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Audio Assets",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/17.%20Audio%20Assets.pdf"
+    } ,  {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Titles Assets",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/intermediate/18.%20Titles%20Assets.pdf"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Elements",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/19.%20Elements.pdf"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Exporting",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/20.%20Exporting.pdf"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Wondershare Drive",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/21.%20Wondershare%20Drive.pdf"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Wondershare Drive",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/22.%20Wondershare%20Drive.pdf"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "How to Edit Videos with Filmora",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/How%20to%20Edit%20Videos%20with%20Filmora.html"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Online Video Editing Learning Resources",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/Online%20Video%20Editing%20Learning%20Resources.html"
+    } ,  {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Things You Should Consider Before Deciding to Learn How to Edit Videos",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/8.filmora/advanced/Things%20You%20Should%20Consider%20Before%20Deciding%20to%20Learn%20How%20to%20Edit%20Videos..html"
+    } 
+      
