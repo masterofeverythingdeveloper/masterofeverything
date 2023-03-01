@@ -1,0 +1,198 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "In the Beginning",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/beginner/1.%20In%20the%20Beginning.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Equipping and Setting Up Your",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/beginner/2.%20Equipping%20and%20Setting%20Up%20Your.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "GarageBand Preferences",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/beginner/3.%20GarageBand%20Preferences.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Introducing Multitrack Recording",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/beginner/4.%20Introducing%20Multitrack%20Recording.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "It (Usually) Starts with a Loop",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/beginner/5.%20It%20(Usually)%20Starts%20with%20a%20Loop.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Recording with MIDI and",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/beginner/6.%20Recording%20with%20MIDI%20and.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Recording Vocals and",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/intermediate/7.%20Recording%20Vocals%20and.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Recording Electric Guitars and",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/intermediate/8.%20Recording%20Electric%20Guitars%20and.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Editing and Polishing Tracks",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/intermediate/9.%20Editing%20and%20Polishing%20Tracks.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Mixing Tracks into Songs",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/intermediate/10.%20Mixing%20Tracks%20into%20Songs.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "To Master Mastering",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/intermediate/11.%20To%20Master%20Mastering.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "CD Recording, Reproduction",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/intermediate/12.%20CD%20Recording,%20Reproduction,.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Smaller Audio Files for",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/advanced/13.%20Creating%20Smaller%20Audio%20Files%20for.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Using GarageBand Recordings",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/advanced/14.%20Using%20GarageBand%20Recordings.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Ten Handy GarageBand Add-Ons",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/advanced/15.%20Ten%20Handy%20GarageBand%20Add-Ons.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Ten Ways to Improve",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/advanced/16.%20Ten%20Ways%20to%20Improve.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Ten Ways to Take Your Recordings",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/advanced/17.%20Ten%20Ways%20to%20Take%20Your%20Recordings.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Ten Useful Web Sites",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/23.%20grageband/advanced/18.%20Ten%20Useful%20Web%20Sites.pdf"
+    }
+  ]
+}
