@@ -1,0 +1,214 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "BASICS OF SOUND AND WAVES 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/1.%20BASICS%20OF%20SOUND%20AND%20WAVES%201.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "BASICS OF SOUND AND WAVES 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/1.%20BASICS%20OF%20SOUND%20AND%20WAVES%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "CRITICAL LISTENING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/2.%20CRITICAL%20LISTENING.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "THE ROOM",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/3.%20THE%20ROOM.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "MONITORING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/4.MONITORING.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "MONITORING 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/4.MONITORING%202.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "STUDIO MONITORS - WHAT NOT TO DO",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/beginner/5.%20STUDIO%20MONITORS%20-%20WHAT%20NOT%20TO%20DO.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MIX PREPARATION 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/10.%20MIX%20PREPARATION%201.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MIX PREPARATION 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/10.%20MIX%20PREPARATION%202.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ACOUSTIC TREATMENT",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/6.%20ACOUSTIC%20TREATMENT.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ACOUSTIC TREATMENT GUIDE 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/7.%20ACOUSTIC%20TREATMENT%20GUIDE%201.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ACOUSTIC TREATMENT GUIDE 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/7.%20ACOUSTIC%20TREATMENT%20GUIDE%202.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "PHSYCHOACOUSTICS EXPLAINED 1",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/8.%20PHSYCHOACOUSTICS%20EXPLAINED%201.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "PHSYCHOACOUSTICS EXPLAINED 2",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/8.%20PHSYCHOACOUSTICS%20EXPLAINED%202.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MIXING TECHNOLOGY AND EQUIPMENT",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/intermediate/9.%20MIXING%20TECHNOLOGY%20AND%20EQUIPMENT.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "MIX PREP TRACK ANALYSIS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/advanced/11.%20MIX%20PREP%20TRACK%20ANALYSIS.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "GAIN STAGING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/advanced/12.%20GAIN%20STAGING.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "GUIDE TO GAIN STAGING IN OUR MIX",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/advanced/13.%20GUIDE%20TO%20GAIN%20STAGING%20IN%20OUR%20MIX.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "ABLETON'S MIXER ANATOMY ROUTING AND SIGNAL FLOW",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/advanced/14.%20ABLETON'S%20MIXER%20ANATOMY%20ROUTING%20AND%20SIGNAL%20FLOW.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "ROUTING, BUSSES AND GROUPS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/20.ableton/advanced/15.%20ROUTING,%20BUSSES%20AND%20GROUPS.pdf"
+    }
+  ]
+}
