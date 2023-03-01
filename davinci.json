@@ -1,0 +1,299 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "HighSpeedEditingwiththeCutPage",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/1%20High%20Speed%20Editing%20with%20the%20Cut%20Page.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "AddingtheB-Roll",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/2.%20Adding%20the%20B-Roll.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "EditPageQuickStart",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/3.%20Edit%20Page%20QuickStart.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "EditingNarration",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/4.%20Editing%20Narration.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "OrganizingaNewProject",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/5.%20Organizing%20a%20New%20Project.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "ViewingClipMetadata",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/6.%20Viewing%20Clip%20Metadata.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "AssemblingaRoughCut",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/7.%20Assembling%20a%20Rough%20Cut.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "UsingTimecode",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/8.%20Using%20Timecode.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "MovingClipsintheTimeline",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/9.%20Moving%20Clips%20in%20the%20Timeline.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "SplittingClips",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/beginner/10.%20Splitting%20Clips.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "RefiningaTimeline",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/11.%20Refining%20a%20Timeline.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "RippleTrimming",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/12.%20Ripple%20Trimming.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ApplyingTransitionsandEffects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/13.%20Applying%20Transitions%20and%20Effects.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ReframinShots",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/14.%20Reframing%20Shots.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "WorkingwithAudioontheEditPage",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/15.%20Working%20with%20Audio%20on%20the%20Edit%20Page.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MonitoringSoloingandMutingAudio",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/16%20Monitoring,%20Soloing,%20and%20Muting%20Audio.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "PerformingPrimaryColorCorrections",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/17.%20Performing%20Primary%20Color%20Corrections.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "CheckingAdjustmentsonScopes",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/18.%20Checking%20Adjustments%20on%20Scopes.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MakingSecondaryAdjustments",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/19.%20Making%20Secondary%20Adjustments.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "CombiningQualifiersandPowerWindows",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/intermediate/20.%20Combining%20Qualifiers%20and%20Power%20Windows.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "DesigningCreativeLooks",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/21.%20Designing%20Creative%20Looks.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "CreatingaBleachBypass",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/22.%20Creating%20a%20Bleach%20Bypass.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "MixingSoundinFairlight",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/23.%20Mixing%20Sound%20in%20Fairlight.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "TrimmingClipsinFairlight",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/24.%20Trimming%20Clips%20in%20Fairlight.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "CreatingEffectsinFusion",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/25.%20Creating%20Effects%20in%20Fusion.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "AddingEffectsfromtheEffectsLibrary",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/26.%20Adding%20Effects%20from%20the%20Effects%20Library.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "DeliveringaFinalProgram",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/27.%20Delivering%20a%20Final%20Program.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "CreatingaCustomPreset",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/28.%20Creating%20a%20Custom%20Preset.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "ManagingMediaandDatabases",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/29.%20Managing%20Media%20and%20Databases.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "CreatingandSwitchingDatabases",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/28.%20Learn%20davinci%20resolve/advanced/30.%20Creating%20and%20Switching%20Databases.pdf"
+    } 
+      
+      
+      
+      
+  ]}
+      
