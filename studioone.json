@@ -1,0 +1,174 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Get started",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/beginner/1.%20Get%20started.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Fundamentals",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/beginner/2.%20Fundamentals.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Pages",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/beginner/3.%20Pages.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Recording",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/beginner/4.%20Recording.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/beginner/5.%20Editing.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Score Editor",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/intermediate/6.%20The%20Score%20Editor.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Browser",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/intermediate/7.%20The%20Browser.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Arranging",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/intermediate/8.%20Arranging.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Mixing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/intermediate/9.%20Mixing.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Show Page",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/intermediate/10.%20The%20Show%20Page.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Automation",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/advanced/11.%20Automation.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Control Link",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/advanced/12.%20Control%20Link.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Built-In Effects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/advanced/13.%20Built-In%20Effects.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Built-in Virtual Instruments",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/advanced/14.%20Built-in%20Virtual%20Instruments.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Video Playback and Sync",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/25.%20studioone/advanced/15.%20Video%20Playback%20and%20Sync.pdf"
+    }
+  ]
+}
