@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "An Overview of Pixlr Editor",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/beginner/1.%20An%20Overview%20of%20Pixlr%20Editor.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Pixlr Editor Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/beginner/2.%20Pixlr%20Editor%20Tools.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Pixlr Editor Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/beginner/2.1%20Pixlr%20Editor%20Tools.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Pixlr Editor Menu Bar",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/beginner/3.%20The%20Pixlr%20Editor%20Menu%20Bar.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Pixlr Editor Menu Bar",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/beginner/3.1%20The%20Pixlr%20Editor%20Menu%20Bar.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Composing Images",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/intermediate/4.%20Composing%20Images.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Improving Image Tonality",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/intermediate/5.%20Improving%20Image%20Tonality.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Color Adjustments",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/intermediate/6.%20Color%20Adjustments.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Photo Retouching",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/intermediate/7.%20Photo%20Retouching.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Graphic",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/advanced/10.%20Creating%20Graphic.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Additional Resources for",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/advanced/11.%20Additional%20Resources%20for.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "RemovingAdding Elements",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/advanced/8.%20RemovingAdding%20Elements.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Artistic Effects Using",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/29.%20Learn%20Pixlr/advanced/9.%20Artistic%20Effects%20Using.pdf"
+    }
+  ]
+}
