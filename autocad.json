@@ -1,0 +1,294 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "AutoCAD Fundamentals—Part I",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/1.%20AutoCAD%20Fundamentals%E2%80%94Part%20I.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "AutoCAD Fundamentals—Part II",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/2.%20AutoCAD%20Fundamentals%E2%80%94Part%20II.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Layers, Colors, Linetypes, and Properties",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/3.%20Layers,%20Colors,%20Linetypes,%20and%20Properties.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Text, Mtext, Editing, and Style",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/4.%20Text,%20Mtext,%20Editing,%20and%20Style.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Hatch Patterns",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/5.%20Hatch%20Patterns.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Dimensions",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/6.%20Dimensions.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blocks, Wblocks, Dynamic Blocks,",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/7.%20Blocks,%20Wblocks,%20Dynamic%20Blocks,.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Polar, Rectangular, and Path Arrays",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/8.%20Polar,%20Rectangular,%20and%20Path%20Arrays.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Basic Printing and Output",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/8.%20Polar,%20Rectangular,%20and%20Path%20Arrays.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Advanced Output—Paper Space",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/beginner/10.%20Advanced%20Output%E2%80%94Paper%20Space.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Advanced Linework",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/11.%20Advanced%20Linework.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Advanced Layers",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/12.%20Advanced%20Layers.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Advanced Dimensions",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/13.%20Advanced%20Dimensions.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Options, Shortcuts, CUI, Design Center",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/14.%20Options,%20Shortcuts,%20CUI,%20Design%20Center,.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Advanced Design and File",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/15.%20Advanced%20Design%20and%20File.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Importing and Exporting Data",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/16.%20Importing%20and%20Exporting%20Data.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "External References (Xrefs)",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/17.%20External%20References%20(Xrefs).pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Attributes",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/18.%20Attributes.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Advanced Output and Pen Settings",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/19.%20Advanced%20Output%20and%20Pen%20Settings.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Isometric Drawing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/intermediate/20.%20Isometric%20Drawing.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "3D Basics",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/21.%203D%20Basics.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Object Manipulation",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/22.%20Object%20Manipulation.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Boolean Operations and Primitives",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/23.%20Boolean%20Operations%20and%20Primitives.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Solid Modeling",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/24.%20Solid%20Modeling.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Advanced Solids, Faces, and Edges",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/25.%20Advanced%20Solids,%20Faces,%20and%20Edges.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Surfaces and Meshes",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/26.%20Surfaces%20and%20Meshes.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Slicing, Sectioning, Layouts, and Vports",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/27.%20Slicing,%20Sectioning,%20Layouts,%20and%20Vports.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Advanced UCS, Views, Text, and",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/28.%20Advanced%20UCS,%20Views,%20Text,%20and.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Dview, Camera, Walk and Fly",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/29.Dview,%20Camera,%20Walk%20and%20Fly,.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Lighting and Rendering",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/16.%20autocad/advanced/30.%20Lighting%20and%20Rendering.pdf"
+    }
+  ]
+}
