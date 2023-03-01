@@ -1,0 +1,297 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Getting Started",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/1.%20Getting%20Started.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Getting to Know the Workflow",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/2.%20Getting%20to%20Know%20the%20Workflow.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Adding effects and modifying layer properties",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/3.%20Adding%20effects%20and%20modifying%20layer%20properties.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Animating the composition",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/4.%20Animating%20the%20composition.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Customizing workspaces",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/5.%20Customizing%20workspaces.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating a Basic Animation Using Effects and Presets",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/6.%20Creating%20a%20Basic%20Animation%20Using%20Effects%20and%20Presets.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating a new composition",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/7.%20Creating%20a%20new%20composition.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Applying and controlling effects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/8.%20Applying%20and%20controlling%20effects.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Animating Text",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/9.%20Animating%20Text.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating and formatting point text",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/beginner/10.%20Creating%20and%20formatting%20point%20text.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animating with scale keyframes",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/11.%20Animating%20with%20scale%20keyframes.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animating imported Photoshop text",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/12.%20Animating%20imported%20Photoshop%20text.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animating type tracking",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/13.%20Animating%20type%20tracking.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Using a text animator group",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/14.%20Using%20a%20text%20animator%20group.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Working with Shape Layers",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/15.%20Working%20with%20Shape%20Layers.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Duplicating and modifying a composition",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/16.%20Duplicating%20and%20modifying%20a%20composition.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animating a Multimedia Presentation",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/17.%20Animating%20a%20Multimedia%20Presentation.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Precomposing layers",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/18.%20Precomposing%20layers.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Applying the effects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/19.%20Applying%20the%20effects.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animating Layers",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/intermediate/20.%20Animating%20Layers.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Adjusting the layers and creating a track matte",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/21.%20Adjusting%20the%20layers%20and%20creating%20a%20track%20matte.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Working with Masks",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/22.%20Working%20with%20Masks.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Distorting Objects with the Puppet Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/23.%20Distorting%20Objects%20with%20the%20Puppet%20Tools.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Using the Roto Brush Tool",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/24.%20Using%20the%20Roto%20Brush%20Tool.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Performing Color Correction",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/25.%20Performing%20Color%20Correction.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Using 3D Features",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/26.%20Using%203D%20Features.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Working with the 3D Camera Tracker",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/27.%20Working%20with%20the%203D%20Camera%20Tracker.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Advanced Editing Techniques",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/28.%20Advanced%20Editing%20Techniques.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Rendering and Outputting",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/29.%20Rendering%20and%20Outputting.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Exporting using the Render Queue",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/6.aftereffect/advanced/30.%20Exporting%20using%20the%20Render%20Queue.pdf"
+    } 
+      
+      
+  ]}
+      
