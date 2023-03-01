@@ -1,0 +1,238 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Introduction to Canva",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/1.%20Introduction%20to%20Canva.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Welcome to Canva",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/2.%20Welcome%20to%20Canva.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Your design’s new home",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/3.Your%20design%E2%80%99s%20new%20home.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Starting a new design",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/4Starting%20a%20new%20design.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How to use custom dimensions",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/5.How%20to%20use%20custom%20dimensions.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating your first design",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/6.%20Creating%20your%20first%20design.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Choosing a layout",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/7.%20Choosing%20a%20layout.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Edit your text",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/beginner/8.%20Edit%20your%20text.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Edit your background",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/9.%20Edit%20your%20background.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Downloading your design",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/10.Downloading%20your%20design.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Upload your own photos",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/11.%20Upload%20your%20own%20photos.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Searching for images",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/12.%20Searching%20for%20images.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Using premium images",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/13.%20Using%20premium%20images.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Grids are your new best friend.",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/14.%20Grids%20are%20your%20new%20best%20friend.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Use free photos",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/15.%20Use%20free%20photos.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Use photo filters",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/intermediate/16.%20Use%20photo%20filters.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Use advanced photo filters",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/17.%20Use%20advanced%20photo%20filters.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Turn a grid into a solid color",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/18.%20Turn%20a%20grid%20into%20a%20solid%20color.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Get creative with grids",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/19.%20Get%20creative%20with%20grids.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Five steps to use stunning shapes",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/20.%20Five%20steps%20to%20use%20stunning%20shapes.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Perfect font pairs",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/21.%20Perfect%20font%20pairs.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Want to learn more",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/22.%20Want%20to%20learn%20more.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Moving and positioning Elements and Text",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/12.canva/advanced/23.%20Moving%20and%20positioning%20Elements%20and%20Text.pdf"
+    } 
+      
