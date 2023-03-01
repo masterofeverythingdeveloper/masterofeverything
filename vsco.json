@@ -1,0 +1,214 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best free VSCO filters",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20free%20VSCO%20filters.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 2",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%202.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 3",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%203.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 4",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%204.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 5",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%205.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 6",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%206.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 7",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%207.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 8",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%208.html"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Best VSCO Filters Part 9",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%209.html"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "100 Best VSCO Filters for Instagram Feed",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/100%20Best%20VSCO%20Filters%20for%20Instagram%20Feed.html"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "50 VSCO Cam Filter Settings",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/50%20VSCO%20Cam%20Filter%20Settings.html"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "6 VSCO Recipes You Should Try",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/6%20VSCO%20Recipes%20You%20Should%20Try.html"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "60 VSCO Filters for Pink Instagram Feed",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/60%20VSCO%20Filters%20for%20Pink%20Instagram%20Feed.html"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Best VSCO Filters for Food",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/Best%20VSCO%20Filters%20for%20Food.html"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Editing for a Cinematic Look  Tips n Tricks",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/Editing%20for%20a%20Cinematic%20Look%20%20Tips%20n%20Tricks.html"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Five VSCO Recipes We Use on Our Own Photos",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/Five%20VSCO%20Recipes%20We%20Use%20on%20Our%20Own%20Photos.html"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "How to Use VSCO Recipes to Edit Instagram Photos",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/How%20to%20Use%20VSCO%20Recipes%20to%20Edit%20Instagram%20Photos.html"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "How to use VSCO app",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/How%20to%20use%20VSCO%20app.html"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The 5 best free VSCO filters",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/The%205%20best%20free%20VSCO%20filters.html"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The best VSCO filters, from classic film to cinematic",
+      "type_file": "HTML",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/The%20best%20VSCO%20filters,%20from%20classic%20film%20to%20cinematic.html"
+    }
+  ]
+}
