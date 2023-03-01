@@ -1,0 +1,241 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Welcome! What’s New (and Also Exciting) in CorelDRAW",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/1.Welcome!%20What%E2%80%99s%20New%20(and%20Also%20Exciting)%20in%20CorelDRAW.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Roadmap to Features and Productivity in DRAW",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/2.The%20Roadmap%20to%20Features%20and%20Productivity%20in%20DRAW.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Diving In to DRAW!",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/3.Diving%20In%20to%20DRAW!.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Working with Single- and Multipage Documents",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/4.%20Working%20with%20Single-%20and%20Multipage%20Documents.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating Basic Shapes, Applying Transformations",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/5.%20Creating%20Basic%20Shapes,%20Applying%20Transformations.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Arranging and Organizing Objects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/6.%20Arranging%20and%20Organizing%20Objects.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Choosing (and Understanding) the Right Path Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/7.%20Choosing%20(and%20Understanding)%20the%20Right%20Path%20Tools.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Exploring Special Shapes, Connectors, and Other Office",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/8.Exploring%20Special%20Shapes,%20Connectors,%20and%20Other%20Office.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Paragraph Text, Artistic Text, and When (and How) to Use Them",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/10.Paragraph%20Text,%20Artistic%20Text,%20and%20When%20(and%20How)%20to%20Use%20Them.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Intermediate Desktop Publishing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/11.%20Intermediate%20Desktop%20Publishing.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Options for Filling Objects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/12.Options%20for%20Filling%20Objects.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Applying Strokes to Paths",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/13.%20Applying%20Strokes%20to%20Paths.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Using Blends and Contours",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/14.Using%20Blends%20and%20Contours.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Mixing and Matching with Digital",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/15.%20Mixing%20and%20Matching%20with%20Digital.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Perspective and Extrude",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/16.%20The%20Perspective%20and%20Extrude.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Editing Objects, Rearranging Paths, and Using Boolean Ops",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/9.Editing%20Objects,%20Rearranging%20Paths,%20and%20Using%20Boolean%20Ops.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Using the Envelope Tool, Lens",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/17.%20Using%20the%20Envelope%20Tool,%20Lens.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The Shape Editing Tools and",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/18.The%20Shape%20Editing%20Tools%20and.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Transparencies and Shadows",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/19.Transparencies%20and%20Shadows.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Understanding and Working with",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/20.Understanding%20and%20Working%20with.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Common Image-Editing Techniques",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/21.Common%20Image-Editing%20Techniques.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Animations in PHOTO-",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/22.Creating%20Animations%20in%20PHOTO-.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Final Thoughts Where Do We Go",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/advanced/23.Final%20Thoughts%20Where%20Do%20We%20Go.pdf"
+    } 
+]}
+
+
+
