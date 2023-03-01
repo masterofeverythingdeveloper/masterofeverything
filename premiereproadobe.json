@@ -1,0 +1,488 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "TOURING ADOBE ",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/1.%20TOURING%20ADOBE%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "TOURING ADOBE",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/1.%20TOURING%20ADOBE%20(2).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "SETTING UP A PROJECT",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/2.%20SETTING%20UP%20A%20PROJECT%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "SETTING UP A PROJECT",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/2.%20SETTING%20UP%20A%20PROJECT%20(2).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "IMPORTING MEDIA",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/3.%20IMPORTING%20MEDIA%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "IMPORTING MEDIA",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/3.%20IMPORTING%20MEDIA%20(2).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "ORGANIZING MEDIA",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/4.%20ORGANIZING%20MEDIA%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "ORGANIZING MEDIA",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/4.%20ORGANIZING%20MEDIA%20(2).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "MASTERING THE ESSENTIALS OF VIDEO EDITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/5.%20MASTERING%20THE%20ESSENTIALS%20OF%20VIDEO%20EDITING%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "MASTERING THE ESSENTIALS OF VIDEO EDITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/5.%20MASTERING%20THE%20ESSENTIALS%20OF%20VIDEO%20EDITING%20(2).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "WORKING WITH CLIPS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/6.%20WORKING%20WITH%20CLIPS%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "WORKING WITH CLIPS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/6.%20WORKING%20WITH%20CLIPS%20(2).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "WORKING WITH CLIPS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/6.%20WORKING%20WITH%20CLIPS%20(3).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "ADDING TRANSITIONS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/7.%20ADDING%20TRANSITIONS%20(1).pdf"
+    } ,   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "ADDING TRANSITIONS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/beginner/7.%20ADDING%20TRANSITIONS%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ADVANCED EDITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/8.%20ADVANCED%20EDITING%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ADVANCED EDITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/8.%20ADVANCED%20EDITING%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "PUTTING CLIPS IN MOTION",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/9.%20PUTTING%20CLIPS%20IN%20MOTION%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "PUTTING CLIPS IN MOTION",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/9.%20PUTTING%20CLIPS%20IN%20MOTION%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MULTICAMERA EDITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/10.%20MULTICAMERA%20EDITING%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "MULTICAMERA EDITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/10.%20MULTICAMERA%20EDITING%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "EDITING AND MIXING AUDIO",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/11.%20EDITING%20AND%20MIXING%20AUDIO%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "EDITING AND MIXING AUDIO",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/11.%20EDITING%20AND%20MIXING%20AUDIO%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "SWEETENING SOUND",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/12.%20SWEETENING%20SOUND%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ADDING VIDEO EFFECTS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/13.%20ADDING%20VIDEO%20EFFECTS%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "ADDING VIDEO EFFECTS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/13.%20ADDING%20VIDEO%20EFFECTS%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "IMPROVING CLIPS WITH COLOR",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/14.%20IMPROVING%20CLIPS%20WITH%20COLOR%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "IMPROVING CLIPS WITH COLOR",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/14.%20IMPROVING%20CLIPS%20WITH%20COLOR%20(2).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "EXPLORING COMPOSITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/15.%20EXPLORING%20COMPOSITING%20(1).pdf"
+    } ,   {
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "EXPLORING COMPOSITING",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/intermediate/15.%20EXPLORING%20COMPOSITING%20(2).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "CREATING TITLES",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/16.%20CREATING%20TITLES%20(1).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "CREATING TITLES",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/16.%20CREATING%20TITLES%20(2).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "MANAGING YOUR PROJECTS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/17.%20MANAGING%20YOUR%20PROJECTS%20(1).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "MANAGING YOUR PROJECTS",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/17.%20MANAGING%20YOUR%20PROJECTS%20(2).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "EXPORTING FRAMES, CLIPS, AND SEQUENCES",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/18.%20EXPORTING%20FRAMES,%20CLIPS,%20AND%20SEQUENCES%20(1).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "EXPORTING FRAMES, CLIPS, AND SEQUENCES",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/18.%20EXPORTING%20FRAMES,%20CLIPS,%20AND%20SEQUENCES%20(2).pdf"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Applying transitions in Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/19.%20Applying%20transitions%20in%20Premiere%20Pro.html"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Applying transitions in Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/20.%20Automatically%20reframe%20video%20for%20social%20media%20channels.html"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Learn more about color grading",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/21.%20Learn%20more%20about%20color%20grading.html"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Premiere Pro Multicam Editing Explained",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/22.%20Premiere%20Pro%20Multicam%20Editing%20Explained.html"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Stabilize footage",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/23.%20Stabilize%20footage.html"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Types of effects in Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/24.%20Types%20of%20effects%20in%20Premiere%20Pro.html"
+    } ,   {
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Use Motion effect to edit, animate clips",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/advanced/25.%20Use%20Motion%20effect%20to%20edit,%20animate%20clips.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "Basic Editing Hacks in Premiere Pro You Need to Know",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/4%20Basic%20Editing%20Hacks%20in%20Premiere%20Pro%20You%20Need%20to%20Know.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "Tips for Turning Horizontal Footage into Vertical Videos in Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/4%20Tips%20for%20Turning%20Horizontal%20Footage%20into%20Vertical%20Videos%20in%20Premiere%20Pro.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "Ways to Manipulate Time in Adobe Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/5%20Ways%20to%20Manipulate%20Time%20in%20Adobe%20Premiere%20Pro.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "Quick Tips to Improve Your Audio in Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/6%20Quick%20Tips%20to%20Improve%20Your%20Audio%20in%20Premiere%20Pro.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "About Color Correction effects",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/About%20Color%20Correction%20effects.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "Adjustment Layers",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/Adjustment%20Layers.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "Adobe Premiere Pro’s System Requirements and Specs",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/Adobe%20Premiere%20Pro%E2%80%99s%20System%20Requirements%20and%20Specs.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "How to Add LUTs in Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/How%20to%20Add%20LUTs%20in%20Premiere%20Pro.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "How to Create Masks in Adobe Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/How%20to%20Create%20Masks%20in%20Adobe%20Premiere%20Pro.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "How to Fix Desaturated Colors in Your Premiere Pro Export",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/How%20to%20Fix%20Desaturated%20Colors%20in%20Your%20Premiere%20Pro%20Export.html"
+    } ,   {
+      "id": 4,
+      "name_category": "More",
+      "title": "TIPS PRO Exporting a Finished Video from Premiere Pro",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/7.premiere/more/TIPS%20PRO%20Exporting%20a%20Finished%20Video%20from%20Premiere%20Pro.html"
+    } 
+      
+  ]}
+      
