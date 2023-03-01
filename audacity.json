@@ -1,0 +1,262 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Foundation of Digital Audio The Sound Wave",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/1.%20The%20Foundation%20of%20Digital%20Audio%20The%20Sound%20Wave.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "A Foundation for Audio The Sound Wave",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/1.1%20A%20Foundation%20for%20Audio%20The%20Sound%20Wave.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The History of Digital Audio MIDI and Synthesis",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/2.%20The%20History%20of%20Digital%20Audio%20MIDI%20and%20Synthesis.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "MIDI Data Your Musical Instrument Data Interface",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/2.1%20MIDI%20Data%20Your%20Musical%20Instrument%20Data%20Interface.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Reproduction of Digital Audio Data Sampling",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/3.%20The%20Reproduction%20of%20Digital%20Audio%20Data%20Sampling.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Data Sample Mathematics Amount of Binary Data",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/3.1%20Data%20Sample%20Mathematics%20Amount%20of%20Binary%20Data.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Transmission of Digital Audio Data Formats",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/4.%20The%20Transmission%20of%20Digital%20Audio%20Data%20Formats.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Digital Audio Storage and Playback File Formats",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/4.1%20Digital%20Audio%20Storage%20and%20Playback%20File%20Formats.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Cleanup of Digital Audio Noise Removal",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/5.%20The%20Cleanup%20of%20Digital%20Audio%20Noise%20Removal.pdf"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Noise Reduction Removing the Background Noise",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/beginner/5.1%20Noise%20Reduction%20Removing%20the%20Background%20Noise.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Isolation of Digital Audio Trimming Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/6.%20The%20Isolation%20of%20Digital%20Audio%20Trimming%20Tools.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Scrubbing Digital Audio Sample Playback Rate",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/6.1%20Scrubbing%20Digital%20Audio%20Sample%20Playback%20Rate.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Manual Labor of Digital Audio Sample Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/7.%20The%20Manual%20Labor%20of%20Digital%20Audio%20Sample%20Editing.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Algorithmic Sample Surgery Integrated Artifacts",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/7.1%20Algorithmic%20Sample%20Surgery%20Integrated%20Artifacts.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "The Algorithms of Digital Audio Audio Processing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/8.%20The%20Algorithms%20of%20Digital%20Audio%20Audio%20Processing.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Waveform Reverberation The Reverb Effect",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/8.1%20Waveform%20Reverberation%20The%20Reverb%20Effect.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "A Visualization of Digital Audio Spectral Analysis",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/9.%20A%20Visualization%20of%20Digital%20Audio%20Spectral%20Analysis.pdf"
+    },{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Frequency Spectrum Data Analysis Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/intermediate/9.1%20Frequency%20Spectrum%20Data%20Analysis%20Tools.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The Compositing of Digital Audio Using Tracks",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/10.%20The%20Compositing%20of%20Digital%20Audio%20Using%20Tracks.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Adding Tracks Creating a New Track",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/10.1%20Adding%20Tracks%20Creating%20a%20New%20Track.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The Synthesis of Digital Audio Tone Generation",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/11.%20The%20Synthesis%20of%20Digital%20Audio%20Tone%20Generation.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Virtual Carnage The Fire and Explosion Generator",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/11.1%20Virtual%20Carnage%20The%20Fire%20and%20Explosion%20Generator.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The Data Footprint of Digital Audio Compression",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/12.%20The%20Data%20Footprint%20of%20Digital%20Audio%20Compression.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Exporting Lossy M4A Audio MPEG4 Audio Format",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/12.1%20Exporting%20Lossy%20M4A%20Audio%20MPEG4%20Audio%20Format.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "The Interactivity of Digital Audio Programming",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/13.%20The%20Interactivity%20of%20Digital%20Audio%20Programming.pdf"
+    },{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Digital Audio Content Delivery Platforms",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/24.%20audacity/advanced/13.1%20Digital%20Audio%20Content%20Delivery%20Platforms.pdf"
+    }
+  ]
+}
