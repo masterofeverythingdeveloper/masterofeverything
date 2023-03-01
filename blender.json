@@ -1,0 +1,283 @@
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ], "More": [
+    {
+      "title": "Learn Affinity Design Tutorial",
+      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "image": "file:///android_asset/category/button1.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Intermediate",
+      "image": "file:///android_asset/category/button2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Advanced",
+      "image": "file:///android_asset/category/button3.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "More",
+      "image": "file:///android_asset/category/button4.jpeg"
+    }
+  ],
+  "Data": [
+   {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Final Thoughts Where Do We Go",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.1%20Final%20Thoughts%20Where%20Do%20We%20Go.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Toy – Modeling of an Object",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.2%20Robot%20Toy%20%E2%80%93%20Modeling%20of%20an%20Object.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Robot Toy – Modeling of an Object",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.3%20Robot%20Toy%20%E2%80%93%20Modeling%20of%20an%20Object.pdf"
+    }  ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Alien Character – Creating a Proper",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.4%20Alien%20Character%20%E2%80%93%20Creating%20a%20Proper.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Haunted House – Modeling of the",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.5%20Haunted%20House%20%E2%80%93%20Modeling%20of%20the.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Haunted House – Putting Colors on It",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.6%20Haunted%20House%20%E2%80%93%20Putting%20Colors%20on%20It.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Haunted House – Adding Materials",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.7%20Haunted%20House%20%E2%80%93%20Adding%20Materials.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Rat Cowboy – Learning To Rig a",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.8%20Rat%20Cowboy%20%E2%80%93%20Learning%20To%20Rig%20a.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Rat Cowboy – Animate a Full Sequence",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/1.9%20Rat%20Cowboy%20%E2%80%93%20Animate%20a%20Full%20Sequence.pdf"
+    } ,{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Rat Cowboy – Rendering, Compositing, and Editing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/beginner/2.0%20Rat%20Cowboy%20%E2%80%93%20Rendering,%20Compositing,%20and%20Editing.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Rigging the Low Resolution Mesh",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/2.6%20Rigging%20the%20Low%20Resolution%20Mesh.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Skinning the Low Resolution Mesh",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/2.7%20Skinning%20the%20Low%20Resolution%20Mesh.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Finalizing the Model",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/2.8%20Finalizing%20the%20Model.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Animating the Character",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/2.9%20Animating%20the%20Character.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Creating the Textures",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/3.0%20Creating%20the%20Textures.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Refining the Textures",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/3.1%20Refining%20the%20Textures.pdf"
+    } ,{
+      "id": 2,
+      "name_category": "Intermediate",
+      "title": "Creating the Materials in Cycles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/intermediate/3.2%20.%20Creating%20the%20Materials%20in%20Cycles.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating the Materials in Blender Internal",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/3.3%20Creating%20the%20Materials%20in%20Blender%20Internal.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Lighting, Rendering, and a Little Bit of Compositing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/3.4%20Lighting,%20Rendering,%20and%20a%20Little%20Bit%20of%20Compositing.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Overview of Materials in Cycles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.1%20.%20Overview%20of%20Materials%20in%20Cycles.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Managing Cycles Materials",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.2%20Managing%20Cycles%20Materials.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Natural Materials in Cycles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.3%20Creating%20Natural%20Materials%20in%20Cycles.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Man-made Materials in Cycles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.4%20Creating%20Man-made%20Materials%20in%20Cycles.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Complex Natural Materials in Cycles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.5%20Creating%20Complex%20Natural%20Materials%20in%20Cycles.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating More Complex Man-made Materials",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.6%20Creating%20More%20Complex%20Man-made%20Materials.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Subsurface Scattering in Cycles",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.7%20Subsurface%20Scattering%20in%20Cycles.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Creating Organic Materials",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.8%20Creating%20Organic%20Materials.pdf"
+    } ,{
+      "id": 3,
+      "name_category": "Advanced",
+      "title": "Special Materials",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/2.blender/advanced/4.9%20Special%20Materials.pdf"
+    } 
+
+]
+    
+}
+
+
