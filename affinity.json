@@ -20,13 +20,13 @@
       "link_redirect": "https://"
     }
   ], "More": [
-      {
+        {
       "title": "Learn Affinity Design Tutorial",
-      "image": "https://play-lh.googleusercontent.com/10eBWYZcQrIg1yVyAaUPon2YAVVUUIaVykB9bfvLj_9qxiyVmderQyE9Wykf8HBamg=w416-h235-rw",
+      "image": "https://play-lh.googleusercontent.com/Ymx6ugPA-r-W7GP5b6cTSeKiQwIwsLQTJbN1y3jyhrdHwZhSTMGw81D5p4eLNWSk2dLa=w240-h480-rw",
       "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnaffinitdesign"
     },{
       "title": "Learn Figma Tutorial",
-      "image": "https://play-lh.googleusercontent.com/Qa41a-zAhXQabT1HIywdX0BLBXkIVK8IZylTkNpLrsmqp8qTNjxUQWre9UthRCEk85o=w416-h235-rw",
+      "image": "https://play-lh.googleusercontent.com/w1lsoUzdibj56raCKDcns1_vu2iRG3yenIesXi67ESmcvstiaWAUXxadORFvUgGMmhX7=w240-h480-rw",
       "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnfigmadesigntutorial"
     },{
       "title": "Tutorial Midjourney AI Art",
@@ -38,12 +38,12 @@
       "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learndavinciresolve"
     },{
       "title": "Learn VSCO Editing Tutorial",
-      "image": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnvsco",
-      "link": "https://play-lh.googleusercontent.com/vkyEBB2CZS1WE-xzmFTOfnXogWrr8RqZlw4TyxXr6QtNGnOkP01NEoD9wnVxn7gPSGk=w240-h480-rw"
+      "image": "https://play-lh.googleusercontent.com/vkyEBB2CZS1WE-xzmFTOfnXogWrr8RqZlw4TyxXr6QtNGnOkP01NEoD9wnVxn7gPSGk=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnvsco"
     },{
       "title": "Learn Pixlr Photo Editor",
-      "image": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnpixlr",
-      "link": "https://play-lh.googleusercontent.com/q_aKVNinv3GiM2MfGSFZJJKqBr1KOE89OkWrbxP_KURGF6E1pjRzZIZfqKuGUjk9oiM=w240-h480-rw"
+      "image": "https://play-lh.googleusercontent.com/q_aKVNinv3GiM2MfGSFZJJKqBr1KOE89OkWrbxP_KURGF6E1pjRzZIZfqKuGUjk9oiM=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.masterofeverything.learnpixlr"
     },{
       "title": "Learn Studio One Tutorial",
       "image": "https://play-lh.googleusercontent.com/fpPAHagdmrn8vcQZ6a_GQQ1kxJt6h5q5KyFeWBI2QA7c4-9hSo7gRt6raWWCUsb2tOEE=w240-h480-rw",
@@ -156,248 +156,163 @@
    {
       "id": 1,
       "name_category": "Beginner",
-      "title": "Howto Open A Document",
+      "title": "Best free VSCO filters",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "<iframe class="scribd_iframe_embed" title="1. How to Open a Document" src="https://www.scribd.com/embeds/628751548/content?start_page=1&view_mode=scroll&access_key=key-UUPAyNFonzq2USQiu2h5" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View 1. How to Open a Document on Scribd" href="https://www.scribd.com/document/628751548/1-How-to-Open-a-Document#from_embed"  style="text-decoration: underline;">1. How to Open a Document</a> by <a title="View Prayoga Novanliano's profile on Scribd" href="https://www.scribd.com/user/655693820/Prayoga-Novanliano#from_embed"  style="text-decoration: underline;">Prayoga Novanliano</a></p>"
-    } ,{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20free%20VSCO%20filters.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Add Two Columns to the Tools",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 2",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/3.%20How%20to%20Use%20the%20Shape%20Tools.pdf"
-    }  ,{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%202.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Use the Shape Tools",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 3",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/3.%20How%20to%20Use%20the%20Shape%20Tools.pdf"
-    }  ,{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%203.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Navigate Inside the Document",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 4",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/4.%20How%20to%20Navigate%20Inside%20the%20Document.pdf"
-    } ,{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%204.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Use Colors in Designer",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 5",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/5.%20How%20to%20Use%20Colors%20in%20Designer.pdf"
-    } ,{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%205.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Use Layers",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 6",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/6.How%20to%20Use%20Layers.pdf"
-  },{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%206.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Use the Text Tool",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 7",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/7.%20How%20to%20Use%20the%20Text%20Tool.pdf"
-  },{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%207.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Combine Shapes Using the Boolean Tools",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 8",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/8.%20How%20to%20Combine%20Shapes%20Using%20the%20Boolean%20Tools.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%208.html"
+    },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "How to Use the Pen Tool",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters Part 9",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/9.%20How%20to%20Use%20the%20Pen%20Tool.pdf"
-},{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "How to Save, Share, and Export",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/beginner/10.%20How%20to%20Save,%20Share,%20and%20Export.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/beginner/Best%20VSCO%20Filters%20Part%209.html"
+    },{
       "id": 2,
       "name_category": "Intermediate",
-      "title": "How to Add Fonts to Designer",
-      "type_file": "PDF",
+      "title": "100 Best VSCO Filters for Instagram Feed",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/11.%20How%20to%20Add%20Fonts%20to%20Designer.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/100%20Best%20VSCO%20Filters%20for%20Instagram%20Feed.html"
+    },{
       "id": 2,
       "name_category": "Intermediate",
-      "title": "How to Create Your Own Brushes",
-      "type_file": "PDF",
+      "title": "50 VSCO Cam Filter Settings",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/12.%20How%20to%20Create%20Your%20Own%20Brushes.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/50%20VSCO%20Cam%20Filter%20Settings.html"
+    },{
       "id": 2,
       "name_category": "Intermediate",
-      "title": "How to Use the Color Picker Tool",
-      "type_file": "PDF",
+      "title": "6 VSCO Recipes You Should Try",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/13.%20How%20to%20Use%20the%20Color%20Picker%20Tool.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/6%20VSCO%20Recipes%20You%20Should%20Try.html"
+    },{
       "id": 2,
       "name_category": "Intermediate",
-      "title": "How to Make a Modern Logo",
-      "type_file": "PDF",
+      "title": "60 VSCO Filters for Pink Instagram Feed",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/14.%20How%20to%20Make%20a%20Modern%20Logo.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/60%20VSCO%20Filters%20for%20Pink%20Instagram%20Feed.html"
+    },{
       "id": 2,
       "name_category": "Intermediate",
-      "title": "How to Create a Customized Retro Wallpaper",
-      "type_file": "PDF",
+      "title": "Best VSCO Filters for Food",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/15.%20How%20to%20Create%20a%20Customized%20Retro%20Wallpaper.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/Best%20VSCO%20Filters%20for%20Food.html"
+    },{
       "id": 2,
       "name_category": "Intermediate",
-      "title": "How to Create Neon Text",
-      "type_file": "PDF",
+      "title": "Editing for a Cinematic Look  Tips n Tricks",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/16.%20How%20to%20Create%20Neon%20Text.pdf"
-},{
-      "id": 2,
-      "name_category": "Intermediate",
-      "title": "How to Create a Shadow for an Object",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/17.%20How%20to%20Create%20a%20Shadow%20for%20an%20Object.pdf"
-},{
-      "id": 2,
-      "name_category": "Intermediate",
-      "title": "How to Duplicate Any Object Around Another Shape",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/18.%20How%20to%20Duplicate%20Any%20Object%20Around%20Another%20Shape.pdf"
-},{
-      "id": 2,
-      "name_category": "Intermediate",
-      "title": "How to Create a Beautiful Flower Design",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/19.%20How%20to%20Create%20a%20Beautiful%20Flower%20Design.pdf"
-},{
-      "id": 2,
-      "name_category": "Intermediate",
-      "title": "How to Create a Shirt Mock-Up",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/intermediate/20.%20How%20to%20Create%20a%20Shirt%20Mock-Up.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/intermediate/Editing%20for%20a%20Cinematic%20Look%20%20Tips%20n%20Tricks.html"
+    },{
       "id": 3,
       "name_category": "Advanced",
-      "title": "How Remove the Background from an Image",
-      "type_file": "PDF",
+      "title": "Five VSCO Recipes We Use on Our Own Photos",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/21.%20How%20Remove%20the%20Background%20from%20an%20Image.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/Five%20VSCO%20Recipes%20We%20Use%20on%20Our%20Own%20Photos.html"
+    },{
       "id": 3,
       "name_category": "Advanced",
-      "title": "How to Create a Sunburst Background",
-      "type_file": "PDF",
+      "title": "How to Use VSCO Recipes to Edit Instagram Photos",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/22.%20How%20to%20Create%20a%20Sunburst%20Background.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/How%20to%20Use%20VSCO%20Recipes%20to%20Edit%20Instagram%20Photos.html"
+    },{
       "id": 3,
       "name_category": "Advanced",
-      "title": "How to Put a Picture in a Text",
-      "type_file": "PDF",
+      "title": "How to use VSCO app",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/23.%20How%20to%20Put%20a%20Picture%20in%20a%20Text.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/How%20to%20use%20VSCO%20app.html"
+    },{
       "id": 3,
       "name_category": "Advanced",
-      "title": "How to Create 3D Text",
-      "type_file": "PDF",
+      "title": "The 5 best free VSCO filters",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/24.%20How%20to%20Create%203D%20Text.pdf"
-},{
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/The%205%20best%20free%20VSCO%20filters.html"
+    },{
       "id": 3,
       "name_category": "Advanced",
-      "title": "How to Create a Flat Design Character with Shading",
-      "type_file": "PDF",
+      "title": "The best VSCO filters, from classic film to cinematic",
+      "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/25.%20How%20to%20Create%20a%20Flat%20Design%20Character%20with%20Shading.pdf"
-},{
-      "id": 3,
-      "name_category": "Advanced",
-      "title": "How to Create a Landscape Design",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/26.%20How%20to%20Create%20a%20Landscape%20Design.pdf"
-},{
-      "id": 3,
-      "name_category": "Advanced",
-      "title": "How to Colorize a Vector Object and Add it to an Existing",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/27.%20How%20to%20Colorize%20a%20Vector%20Object%20and%20Add%20it%20to%20an%20Existing.pdf"
-},{
-      "id": 3,
-      "name_category": "Advanced",
-      "title": "How to Steal Colors from Any Source",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/28.%20How%20to%20Steal%20Colors%20from%20Any%20Source.pdf"
-},{
-      "id": 3,
-      "name_category": "Advanced",
-      "title": "How to Make a Cool Blended Theme",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/29.%20How%20to%20Make%20a%20Cool%20Blended%20Theme.pdf"
-},{
-      "id": 3,
-      "name_category": "Advanced",
-      "title": "How to Create a Sacred Geometry Design",
-      "type_file": "PDF",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://wallpaperhub.space/bigprojek/learning/moe/1.affinity/advanced/30.%20How%20to%20Create%20a%20Sacred%20Geometry%20Design.pdf"
+      "link": "https://wallpaperhub.space/bigprojek/learning/moe/26.%20Learn%20VSCO/advanced/The%20best%20VSCO%20filters,%20from%20classic%20film%20to%20cinematic.html"
+    }
+  ]
 }
-
-
-
-
-]
-}
-
