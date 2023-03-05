@@ -166,7 +166,7 @@
       "id": 1,
       "name_category": "Beginner",
       "title": "ANIMATED GIF",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/beginner/ANIMATED%20GIF.html"
@@ -174,7 +174,7 @@
       "id": 1,
       "name_category": "Beginner",
       "title": "COLOR PICKER",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/beginner/COLOR%20PICKER.html"
@@ -182,7 +182,7 @@
       "id": 1,
       "name_category": "Beginner",
       "title": "COMBINE",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/beginner/COMBINE.html"
@@ -190,7 +190,7 @@
       "id": 1,
       "name_category": "Beginner",
       "title": "EDITOR  HOME",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/beginner/EDITOR%20%20HOME.html"
@@ -198,7 +198,7 @@
       "id": 1,
       "name_category": "Beginner",
       "title": "EDITOR BATCH",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/beginner/EDITOR%20BATCH.html"
@@ -206,7 +206,7 @@
       "id": 1,
       "name_category": "Beginner",
       "title": "EDITOR CROP",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/beginner/EDITOR%20CROP.html"
@@ -214,7 +214,7 @@
       "id": 2,
       "name_category": "Intermediate",
       "title": "EDITOR FILTER",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/intermediate/EDITOR%20FILTER.html"
@@ -222,7 +222,7 @@
       "id": 2,
       "name_category": "Intermediate",
       "title": "EDITOR OBJECT",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/intermediate/EDITOR%20OBJECT.html"
@@ -230,7 +230,7 @@
       "id": 2,
       "name_category": "Intermediate",
       "title": "EDITOR TOOLS.",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/intermediate/EDITOR%20TOOLS.html"
@@ -238,7 +238,7 @@
       "id": 2,
       "name_category": "Intermediate",
       "title": "PAGE",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/intermediate/PAGE.html"
@@ -246,7 +246,7 @@
       "id": 2,
       "name_category": "Intermediate",
       "title": "PAPER PRINT",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/intermediate/PAPER%20PRINT.html"
@@ -254,7 +254,7 @@
       "id": 2,
       "name_category": "Intermediate",
       "title": "PRINT",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/intermediate/PRINT.html"
@@ -270,7 +270,7 @@
       "id": 3,
       "name_category": "Intermediate",
       "title": "RANAME",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/advanced/RANAME.html"
@@ -278,7 +278,7 @@
       "id": 3,
       "name_category": "Intermediate",
       "title": "RAW CONVERTER",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/advanced/RAW%20CONVERTER.html"
@@ -286,7 +286,7 @@
       "id": 3,
       "name_category": "Intermediate",
       "title": "SCREEN CAPTURE",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/advanced/SCREEN%20CAPTURE.html"
@@ -294,23 +294,23 @@
       "id": 3,
       "name_category": "Intermediate",
       "title": "SCREENSHOTS",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/advanced/SCREENSHOTS.html"
-    } {
+    } ,{
       "id": 3,
       "name_category": "Intermediate",
       "title": "SPLITTER",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/advanced/SPLITTER.html"
-    } {
+    } ,{
       "id": 3,
       "name_category": "Intermediate",
       "title": "Viewer",
-      "type_file": "PDF",
+      "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/10.photoscpae/advanced/Viewer.html"
