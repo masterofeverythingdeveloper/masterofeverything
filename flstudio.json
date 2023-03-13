@@ -152,8 +152,16 @@
       "image": "file:///android_asset/category/button4.jpeg"
     }
   ],
-  "Data": [
+  "Data": [ 
    {
+      "id": 1,
+      "name_category": "More",
+      "title": "Belajar dulu gan",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/flstudio1.mov?raw=true"
+    },{
       "id": 1,
       "name_category": "Beginner",
       "title": "Configuring FL Studio",
@@ -161,7 +169,7 @@
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/22.%20flstudio/beginner/1.%20Configuring%20FL%20Studio.pdf"
-    } ,{
+    },{
       "id": 1,
       "name_category": "Beginner",
       "title": "Using Browser",
