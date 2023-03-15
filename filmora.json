@@ -3,10 +3,10 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "native_for_admob":"",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "454125176874732_454125740208009",
+      "main_ads_intertitial":"454125176874732_454126786874571",
+      "native_for_admob":"454125176874732_454126853541231",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
