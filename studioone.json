@@ -3,9 +3,9 @@
     {
       "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "582505900261835_582507306928361",
-      "main_ads_intertitial":"582505900261835_582507323595026",
-      "native_for_admob":"582505900261835_582507353595023",
+      "main_ads_banner": "1469505677199346_1469506097199304",
+      "main_ads_intertitial":"1469505677199346_1469506120532635",
+      "native_for_admob":"1469505677199346_1469506170532630",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 2,
