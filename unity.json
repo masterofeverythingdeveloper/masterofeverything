@@ -268,99 +268,171 @@
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Tilemap Tile Palette Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/2Tilemap%20Tile%20Palette%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Player Movement Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/3Player%20Movement%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Animation Animator Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/4Animation%20Animator%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Multiple Animations Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/5Multiple%20Animations%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Grounding Check Using Boxcast Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/6Grounding%20Check%20Using%20Boxcast%20%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Collect & Count Items Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/7Collect%20&%20Count%20Items%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Player Death Logic Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/8Player%20Death%20Logic%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Moving Platforms Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/9Moving%20Platforms%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Rotating Saws Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/10Rotating%20Saws%20%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Sound Effects & Background Music Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/11Sound%20Effects%20&%20Background%20Music%20%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Adding Multiple Levels Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/12Adding%20Multiple%20Levels%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "Build a 2D Platformer Game in Unity",
+      "title": "Start & Game Over Menu Build a 2D Platformer Game in Unity",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/13Start%20&%20Game%20Over%20Menu%20%20Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 01 Adding Background",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2001%20Adding%20Background.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 02 Character movement",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2002%20Character%20movement.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 03 Character animation",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2003%20Character%20animation.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 04 Collisions",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2004%20Collisions.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 05 Adding NPCs",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2005%20Adding%20NPCs.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 06 Interfaces",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2006%20Interfaces.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 07 Adding Dialog (Video 1 of 2)",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2007%20Adding%20Dialog%20(Video%201%20of%202).mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 08 Adding Dialog (Video 2 of 2)",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2008%20Adding%20Dialog%20(Video%202%20of%202).mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 09 Battle System Design",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityadvancedtutorial/Part%2009%20Battle%20System%20Design.mp4?raw=true"
     },{
       "id": 1,
       "name_category": "More",
