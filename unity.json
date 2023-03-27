@@ -156,14 +156,222 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "From Download to First Project",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/1From%20Download%20to%20First%20Project.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Write your FIRST SCRIPT in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/2Write%20your%20FIRST%20SCRIPT%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Input by Pressing Buttons",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/3Input%20by%20Pressing%20Buttons!.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Mouse Inputs & Mouse Position in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/4Mouse%20Inputs%20&%20Mouse%20Position%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Adding Sprites (and where to find them)",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/5Adding%20Sprites%20(and%20where%20to%20find%20them).mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Making the Player MOVE",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/6Making%20the%20Player%20MOVE.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Refactoring our Health System",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/7Refactoring%20our%20Health%20System.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Making the Player Attack",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/8Making%20the%20Player%20Attack.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Adding Enemies",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/9Adding%20Enemies.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Add some VISUAL INDICATORS",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/10Add%20some%20VISUAL%20INDICATORS.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Making an Enemy Spawner",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/11Making%20an%20Enemy%20Spawner.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Creating a Main Menu",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/12Creating%20a%20Main%20Menu.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Building the Game",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unitybeginnertutorial/13Building%20the%20Game.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Build a 2D Platformer Game in Unity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/unityintermediatetutorial/1Build%20a%202D%20Platformer%20Game%20in%20Unity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "Introduction to Unity",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/1.%20Introduction%20to%20Unity/1.%20Introduction%20to%20Unity.pdf?raw=true"
-    } ,{
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Game 2 Chaos Ball",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -171,7 +379,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/10.%20Game%202%20Chaos%20Ball/10.%20Game%202%20Chaos%20Ball.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Game Objects",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -179,7 +387,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/2.%20Game%20Objects/2.%20Game%20Objects.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Models, Materials, and Textures",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -187,7 +395,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/3.%20Models%2C%20Materials%2C%20and%20Textures/3.%20Models%2C%20Materials%2C%20and%20Textures.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Terrain and Environments",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -195,7 +403,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/4.%20Terrain%20and%20Environments/4.%20Terrain%20and%20Environments.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Lights and Cameras 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -203,7 +411,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/5.%20Lights%20and%20Cameras/5.%20Lights%20and%20Cameras%20(1).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Lights and Cameras 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -211,7 +419,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/5.%20Lights%20and%20Cameras/5.%20Lights%20and%20Cameras%20(2).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Game 1 Amazing Racer 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -219,7 +427,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/6.%20Game%201%20Amazing%20Racer/6.%20Game%201%20Amazing%20Racer%20(1).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Game 1 Amazing Racer 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -227,7 +435,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/6.%20Game%201%20Amazing%20Racer/6.%20Game%201%20Amazing%20Racer%20(2).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Scripting, Part 1 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -235,7 +443,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/7.%20Scripting%2C%20Part%201/7.%20Scripting%2C%20Part%201%20(1).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Scripting, Part 1 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -243,7 +451,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/7.%20Scripting%2C%20Part%201/7.%20Scripting%2C%20Part%201%20(2).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Scripting, Part 2 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -251,7 +459,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/8.%20Scripting%2C%20Part%202/8.%20Scripting%2C%20Part%202%20(1).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Scripting, Part 2 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -259,7 +467,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/8.%20Scripting%2C%20Part%202/8.%20Scripting%2C%20Part%202%20(2).pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Collision",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -267,7 +475,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/9.%20Collision/9.%20Collision.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Prefabs",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -275,7 +483,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/11.%20Prefabs/11.%20Prefabs.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "2D Game Tools",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -283,7 +491,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/12.%202D%20Game%20Tools/12.%202D%20Game%20Tools.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "2D Tilemap",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -291,7 +499,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/13.%202D%20Tilemap/13.%202D%20Tilemap.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "User Interfaces",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -299,7 +507,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/14.%20User%20Interfaces/14.%20User%20Interfaces.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Game 3 Captain Blaster 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -307,7 +515,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/15.%20Game%203%20Captain%20Blaster/15.%20Game%203%20Captain%20Blaster%20(1).pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Game 3 Captain Blaster 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -315,7 +523,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/15.%20Game%203%20Captain%20Blaster/15.%20Game%203%20Captain%20Blaster%20(2).pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Particle Systems",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -323,7 +531,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/16.%20Particle%20Systems/16.%20Particle%20Systems.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Animations",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -331,7 +539,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/17.%20Animations/17.%20Animations.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Animators",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -339,7 +547,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/18.%20Animators/18.%20Animators.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Timeline",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -347,7 +555,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/19.%20Timeline/19.%20Timeline.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Game 4 Gauntlet Runner",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -355,7 +563,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/20.%20Game%204%20Gauntlet%20Runner/20.%20Game%204%20Gauntlet%20Runner.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Audio",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -363,7 +571,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/21.%20Audio/21.%20Audio.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Mobile Development",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -371,7 +579,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/22.%20Mobile%20Development/22.%20Mobile%20Development.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Polish and Deploy",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -379,7 +587,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Unity/23.%20Polish%20and%20Deploy/23.%20Polish%20and%20Deploy.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Wrap Up",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
