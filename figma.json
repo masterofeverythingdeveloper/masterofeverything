@@ -157,14 +157,278 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "Introduction to Figma",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/1.Introduction%20to%20Figma.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Setup a Responsive Grid Layout for UI & Web Design",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/2.Setup%20a%20Responsive%20Grid%20Layout%20for%20UI%20&%20Web%20Design.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Create the Perfect Typography Scale for UI & Web Projects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/3.Create%20the%20Perfect%20Typography%20Scale%20for%20UI%20&%20Web%20Projects.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Figma Auto Layout & Constraints",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/4.Figma%20Auto%20Layout%20&%20Constraints.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Figma Tutorial Variants",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/5.Figma%20Tutorial%20Variants.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Figma Plugins",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/6.Figma%20Plugins.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Create Interactive Components with a Real Project",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/7.Create%20Interactive%20Components%20with%20a%20Real%20Project.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Smart Animate Create UI & Web Animations",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/8.Smart%20Animate%20Create%20UI%20&%20Web%20Animations.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Create a RESPONSIVE Typography Scale for Mobile & Tablet",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/9.Create%20a%20RESPONSIVE%20Typography%20Scale%20for%20Mobile%20&%20Tablet.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Glassmorphism UI Design Tutorial for Beginners",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmabeginners/10.Glassmorphism%20UI%20Design%20Tutorial%20for%20Beginners.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Layers Panel Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/1.Figma%20Layers%20Panel%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Object Selection Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/2.Figma%20Object%20Selection%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Layer Stacking Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/3.Figma%20Layer%20Stacking%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma On Canvas Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/4.Figma%20On%20Canvas%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Frame Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/5.Figma%20Frame%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Project, Page & Artboard Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/6.Figma%20Project,%20Page%20&%20Artboard%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Properties Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/7.Figma%20Properties%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Image Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/8.Figma%20Image%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Vector Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/9.Figma%20Vector%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Component Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/10.Figma%20Component%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Layout Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/11.Figma%20Layout%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma Handoff and Testing Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/12.Figma%20Handoff%20and%20Testing%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Figma General and Miscellaneous Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaintermediate/13.Figma%20General%20and%20Miscellaneous%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Figma Tricks and Tips",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/1.Figma%20Tricks%20and%20Tips.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Figma Variants",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/2.Figma%20Variants.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Figma Auto Layout",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/3.Figma%20Auto%20Layout.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Smooth Transitions With Easing in Figma and After Effects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/4.Smooth%20Transitions%20With%20Easing%20in%20Figma%20and%20After%20Effects.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Essential Figma Shortcuts to Speed Up Your Design Work",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/5.Essential%20Figma%20Shortcuts%20to%20Speed%20Up%20Your%20Design%20Work.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Typography, Spacing, and Sizing",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/6.Typography,%20Spacing,%20and%20Sizing.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Colors and Forms",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/7.Colors%20and%20Forms.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Buttons, Links, Icons, and Images",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/8.Buttons,%20Links,%20Icons,%20and%20Images.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Learn UI Design Better Button Design",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/9.Learn%20UI%20Design%20Better%20Button%20Design.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "UI Design Challenge",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/figmaadvance/10.UI%20Design%20Challenge.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "Alignment",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Alignment.html?raw=true"
-    } ,{
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Auto Layout",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -172,7 +436,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Auto%20Layout.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "COMPONEN",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -180,7 +444,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/COMPONEN.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Childre",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -188,7 +452,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Children.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Color Picker",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -196,7 +460,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Color%20Picker.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Components",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -204,7 +468,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Constraints.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Constraints",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -212,7 +476,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Constraints.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Design Tools",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -220,7 +484,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Design%20Tools.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Figma Plugins",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -228,7 +492,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Figma%20Plugins.html?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Figma",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -236,7 +500,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Figma.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Frame",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -244,7 +508,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Frame.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Getting started with Figma as your design tool",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -252,7 +516,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Getting%20started%20with%20Figma%20as%20your%20design%20tool.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Gradients",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -260,7 +524,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Gradients.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Grids",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -268,7 +532,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Grids.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Image",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -276,7 +540,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Image.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Inspect",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -284,7 +548,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Inspect.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Keyboard",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -292,7 +556,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Keyboard.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Live Embeds",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -300,7 +564,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Live%20Embeds.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Parent",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -308,7 +572,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Parent.html?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Prototype",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -316,7 +580,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Prototype.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Real-Time Collaboration",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -324,7 +588,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Real-Time%20Collaboration.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Resize",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -332,7 +596,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Resize.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Shape Tools",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -340,7 +604,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Shape%20Tools.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Styles",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -348,7 +612,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Styles.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Team Library",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -356,7 +620,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Team%20Library.html?raw=true"
     }  ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Toolbar",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -364,7 +628,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Toolbar.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Variants",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -372,7 +636,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Variants.html?raw=true"
     }  ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Vector Network",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -380,7 +644,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Vector%20Network.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Version Control",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -388,7 +652,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/figma/Version%20Control.html?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Why use Figma",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
