@@ -157,14 +157,294 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 1",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%201.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 2 Editing",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%202%20Editing.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 3 Modifiers",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%203%20Modifiers.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 4 Modelling",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%204%20Modelling.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 5 Sculpting",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%205%20Sculpting.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 6 Rendering",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%206%20Rendering.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 7 Texturing",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%207%20Texturing.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 8 Texture Painting",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%208%20Texture%20Painting.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 9 Geometry Nodes",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%209%20Geometry%20Nodes.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 10 Random Colored Sprinkles",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2010%20Random%20Colored%20Sprinkles.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 11 Animation",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2011%20Animation.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 12 Floating Particles",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2012%20Floating%20Particles.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 13 Lighting",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2013%20Lighting.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 14 Compositing",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2014%20Compositing.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 15 Rendering",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2015%20Rendering.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Blender Beginner Tutorial Part 16 FINALE",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderbeginner/Blender%20Beginner%20Tutorial%20Part%2016%20FINALE.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Blender Intermediate Modelling Tutorial Part 1",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Blender%20Intermediate%20Modelling%20Tutorial%20Part%201.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Blender Intermediate Modelling Tutorial Part 2 Boolean",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Blender%20Intermediate%20Modelling%20Tutorial%20Part%202%20Boolean.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Blender Intermediate Modelling Tutorial Part 3 Sharpening Edges",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Blender%20Intermediate%20Modelling%20Tutorial%20Part%203%20Sharpening%20Edges.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Blender Intermediate Modelling Tutorial Part 4 Final Touches",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Blender%20Intermediate%20Modelling%20Tutorial%20Part%204%20Final%20Touches.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Blender Intermediate Tutorial How to Sculpt Details",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Blender%20Intermediate%20Tutorial%20How%20to%20Sculpt%20Details.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Blender Intermediate UV Unwrapping Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Blender%20Intermediate%20UV%20Unwrapping%20Tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "How to Bake Perfect Normals in Blender Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/How%20to%20Bake%20Perfect%20Normals%20in%20Blender%20Tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Texturing in Blender Intermediate Tutorial Part 1",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Texturing%20in%20Blender%20Intermediate%20Tutorial%20Part%201.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Texturing in Blender Intermediate Tutorial Part 2",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Texturing%20in%20Blender%20Intermediate%20Tutorial%20Part%202.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Texturing in Blender Intermediate Tutorial Part 3 (FINAL)",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderintermediate/Texturing%20in%20Blender%20Intermediate%20Tutorial%20Part%203%20(FINAL).mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "blender advanced tutorial Part 1",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/blender%20advanced%20tutorial%20Part%201.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 2 Materials Rendering",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Part%202%20Materials%20Rendering.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 3 The Old Man",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Part%203%20The%20Old%20Man.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 4 Edit Mode",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Part%204%20Edit%20Mode.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "part 5 the monster",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/part%205%20the%20monster.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 6 The Monster",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Part%206%20The%20Monster.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 7 The Street",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Part%207%20The%20Street.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Part 8 The Lighting",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Part%208%20The%20Lighting.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "Create Any Animal in Blender 3",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/blenderadvancedtutorial/Create%20Any%20Animal%20in%20Blender%203.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "Final Thoughts Where Do We Go",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.1%20Final%20Thoughts%20Where%20Do%20We%20Go.pdf?raw=true"
-    } ,{
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Toy – Modeling of an Object",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -172,7 +452,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.2%20Robot%20Toy%20%E2%80%93%20Modeling%20of%20an%20Object.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Robot Toy – Modeling of an Object",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -180,7 +460,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.3%20Robot%20Toy%20%E2%80%93%20Modeling%20of%20an%20Object.pdf?raw=true"
     }  ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Alien Character – Creating a Proper",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -188,7 +468,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.4%20Alien%20Character%20%E2%80%93%20Creating%20a%20Proper.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Haunted House – Modeling of the",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -196,7 +476,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.5%20Haunted%20House%20%E2%80%93%20Modeling%20of%20the.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Haunted House – Putting Colors on It",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -204,7 +484,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.6%20Haunted%20House%20%E2%80%93%20Putting%20Colors%20on%20It.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Haunted House – Adding Materials",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -212,7 +492,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.7%20Haunted%20House%20%E2%80%93%20Adding%20Materials.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Rat Cowboy – Learning To Rig a",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -220,7 +500,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.8%20Rat%20Cowboy%20%E2%80%93%20Learning%20To%20Rig%20a.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Rat Cowboy – Animate a Full Sequence",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -228,7 +508,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/1.9%20Rat%20Cowboy%20%E2%80%93%20Animate%20a%20Full%20Sequence.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Rat Cowboy – Rendering, Compositing, and Editing",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -236,7 +516,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/2.0%20Rat%20Cowboy%20%E2%80%93%20Rendering%2C%20Compositing%2C%20and%20Editing.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Rigging the Low Resolution Mesh",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -244,7 +524,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/2.6%20Rigging%20the%20Low%20Resolution%20Mesh.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Skinning the Low Resolution Mesh",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -252,7 +532,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/2.7%20Skinning%20the%20Low%20Resolution%20Mesh.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Finalizing the Model",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -260,7 +540,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/2.8%20Finalizing%20the%20Model.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Animating the Character",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -268,7 +548,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/2.9%20Animating%20the%20Character.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Creating the Textures",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -276,7 +556,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/3.0%20Creating%20the%20Textures.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Refining the Textures",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -284,7 +564,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/3.1%20Refining%20the%20Textures.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Creating the Materials in Cycles",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -292,7 +572,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/3.2%20.%20Creating%20the%20Materials%20in%20Cycles.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating the Materials in Blender Internal",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -300,7 +580,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/3.3%20Creating%20the%20Materials%20in%20Blender%20Internal.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Lighting, Rendering, and a Little Bit of Compositing",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -308,7 +588,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/3.4%20Lighting%2C%20Rendering%2C%20and%20a%20Little%20Bit%20of%20Compositing.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Overview of Materials in Cycles",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -316,7 +596,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.1%20.%20Overview%20of%20Materials%20in%20Cycles.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Managing Cycles Materials",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -324,7 +604,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.2%20Managing%20Cycles%20Materials.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating Natural Materials in Cycles",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -332,7 +612,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.3%20Creating%20Natural%20Materials%20in%20Cycles.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating Man-made Materials in Cycles",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -340,7 +620,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.4%20Creating%20Man-made%20Materials%20in%20Cycles.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating Complex Natural Materials in Cycles",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -348,7 +628,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.5%20Creating%20Complex%20Natural%20Materials%20in%20Cycles.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating More Complex Man-made Materials",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -356,7 +636,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.6%20Creating%20More%20Complex%20Man-made%20Materials.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Subsurface Scattering in Cycles",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -364,7 +644,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.7%20Subsurface%20Scattering%20in%20Cycles.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating Organic Materials",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -372,16 +652,12 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.8%20Creating%20Organic%20Materials.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Special Materials",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/blender/4.9%20Special%20Materials.pdf?raw=true"
     } 
-
-]
-    
+]   
 }
-
-
