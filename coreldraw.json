@@ -157,14 +157,254 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "welcome to coreldraw",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/1.welcome%20to%20coreldraw.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "A Look at the Application Interface",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/2.A%20Look%20at%20the%20Application%20Interface.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "More Learning Tools",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/3.More%20Learning%20Tools.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Outlines Transparencies and Fills",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/4.Outlines,%20Transparencies,%20and%20Fills.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Create and Share Pattern Fills",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/5.Create%20and%20Share%20Pattern%20Fills.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Experiment with Fonts",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/6.Experiment%20with%20Fonts.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Align and Position Objects with Ease",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/7.Align%20and%20Position%20Objects%20with%20Ease.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Color Styles, QR Codes, and More",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/8.Color%20Styles,%20QR%20Codes,%20and%20More.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Brushes and Liquid Tools",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/9.Brushes%20and%20Liquid%20Tools.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Apply Photo Effects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawbeginner/10.Apply%20Photo%20Effects.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Customize the Workspace to Enhance Your Workflow",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/1.Customize%20the%20Workspace%20to%20Enhance%20Your%20Workflow.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Essential Learning Tools to Get You Started",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/2.Essential%20Learning%20Tools%20to%20Get%20You%20Started.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Tips and Tricks to Increase Your Productivity",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/3.Tips%20and%20Tricks%20to%20Increase%20Your%20Productivity.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Apply Fountain Fills for Unique Text Effects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/4.Apply%20Fountain%20Fills%20for%20Unique%20Text%20Effects.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Use Fills and Patterns a Corel app to Create a Seamless Pattern",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/5.Use%20Fills%20and%20Patterns%20a%20Corel%20app%20to%20Create%20a%20Seamless%20Pattern.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Experiment with Fonts and OpenType Features to Create an Effective Logo",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/6.Experiment%20with%20Fonts%20and%20OpenType%20Features%20to%20Create%20an%20Effective%20Logo.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Create a QR Code and Embed a Logo",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/7.Create%20a%20QR%20Code%20and%20Embed%20a%20Logo.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Retouch Photos with the Liquid Tools",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/8.Retouch%20Photos%20with%20the%20Liquid%20Tools.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Create a Depth of Field Effect with Bokeh Blur",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/9.Create%20a%20Depth%20of%20Field%20Effect%20with%20Bokeh%20Blur.mp4?raw=true"
+     },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "Graphics Suite for Adobe Illustrator and Adobe Photoshop users",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawintermediate/10.Graphics%20Suite%20for%20Adobe%20Illustrator%20and%20Adobe%20Photoshop%20users.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "1.coreldraw tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/1.coreldraw%20tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "2.how to create flyer in coreldraw",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/2.how%20to%20create%20flyer%20in%20coreldraw.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "3.Coreldraw tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/1.coreldraw%20tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "4.Coreldraw tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/4.Coreldraw%20tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "5.coreldraw tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/5.coreldraw%20tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "6.coreldraw tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/6.coreldraw%20tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "7.Coreldraw Designs",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/7.Coreldraw%20Designs.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "8.Graphic design",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/8.Graphic%20design.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "9.Abstract Background Design",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/9.Abstract%20Background%20Design.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "10.Typography Techniques",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/coreldrawadvanced/10.Typography%20Techniques.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "Welcome! What’s New (and Also Exciting) in CorelDRAW",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/1.Welcome!%20What%E2%80%99s%20New%20(and%20Also%20Exciting)%20in%20CorelDRAW.pdf?raw=true"
-    } ,{
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "The Roadmap to Features and Productivity in DRAW",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -172,7 +412,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/2.The%20Roadmap%20to%20Features%20and%20Productivity%20in%20DRAW.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Diving In to DRAW!",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -180,7 +420,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/3.Diving%20In%20to%20DRAW!.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Working with Single- and Multipage Documents",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -188,7 +428,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/4.%20Working%20with%20Single-%20and%20Multipage%20Documents.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Creating Basic Shapes, Applying Transformations",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -196,7 +436,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/5.%20Creating%20Basic%20Shapes%2C%20Applying%20Transformations.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Arranging and Organizing Objects",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -204,7 +444,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/6.%20Arranging%20and%20Organizing%20Objects.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Choosing (and Understanding) the Right Path Tools",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -212,7 +452,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/7.%20Choosing%20(and%20Understanding)%20the%20Right%20Path%20Tools.pdf?raw=true"
     } ,{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Exploring Special Shapes, Connectors, and Other Office",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -220,7 +460,7 @@
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/beginner/8.Exploring%20Special%20Shapes,%20Connectors,%20and%20Other%20Office.pdf"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Paragraph Text, Artistic Text, and When (and How) to Use Them",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -228,7 +468,7 @@
       "link": "https://wallpaperhub.space/bigprojek/learning/moe/4.coreldraw/intermediate/10.Paragraph%20Text,%20Artistic%20Text,%20and%20When%20(and%20How)%20to%20Use%20Them.pdf"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Intermediate Desktop Publishing",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -236,7 +476,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/11.%20Intermediate%20Desktop%20Publishing.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Options for Filling Objects",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -244,7 +484,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/12.Options%20for%20Filling%20Objects.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Applying Strokes to Paths",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -252,7 +492,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/13.%20Applying%20Strokes%20to%20Paths.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Using Blends and Contours",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -260,7 +500,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/14.Using%20Blends%20and%20Contours.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Mixing and Matching with Digital",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -268,7 +508,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/15.%20Mixing%20and%20Matching%20with%20Digital.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "The Perspective and Extrude",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -276,7 +516,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/16.%20The%20Perspective%20and%20Extrude.pdf?raw=true"
     } ,{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Editing Objects, Rearranging Paths, and Using Boolean Ops",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -284,7 +524,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/9.Editing%20Objects%2C%20Rearranging%20Paths%2C%20and%20Using%20Boolean%20Ops.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Using the Envelope Tool, Lens",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -292,7 +532,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/17.%20Using%20the%20Envelope%20Tool%2C%20Lens.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "The Shape Editing Tools and",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -300,7 +540,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/18.The%20Shape%20Editing%20Tools%20and.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Transparencies and Shadows",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -308,7 +548,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/19.Transparencies%20and%20Shadows.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Understanding and Working with",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -316,7 +556,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/20.Understanding%20and%20Working%20with.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Common Image-Editing Techniques",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -324,7 +564,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/21.Common%20Image-Editing%20Techniques.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating Animations in PHOTO-",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -332,7 +572,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/coreldraw/22.Creating%20Animations%20in%20PHOTO-.pdf?raw=true"
     } ,{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Final Thoughts Where Do We Go",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -341,6 +581,3 @@
     } 
 ]
 }
-
-
-
