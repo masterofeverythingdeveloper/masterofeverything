@@ -153,7 +153,15 @@
     }
   ],
   "Data": [
-   {
+    {
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Foundation of Digital Audio The Sound Wave",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://ia902601.us.archive.org/22/items/how-to-use-audacity-to-record-edit-audio-beginners-tutorial/%F0%9F%94%8A%20How%20to%20use%20Audacity%20to%20Record%20%26%20Edit%20Audio%20_%20Beginners%20Tutorial.mp4"
+    },{
       "id": 1,
       "name_category": "Beginner",
       "title": "The Foundation of Digital Audio The Sound Wave",
