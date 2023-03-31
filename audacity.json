@@ -156,675 +156,451 @@
    {
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 1 Zero To Hero",
+      "title": "Audacity Lesson 1 Record Play Input Output",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%201%20Zero%20To%20Hero.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%201%20Record%20Play%20Input%20Output.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 2 The Playlist",
+      "title": "Audacity Lesson 2 Basic Audio Editing Tools",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%202%20The%20Playlist.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%202%20Basic%20Audio%20Editing%20Tools.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 3 The Mixer",
+      "title": "Audacity Lesson 3 Cut Copy Paste Sound",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%203%20The%20Mixer.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%203%20Cut%20Copy%20Paste%20Sound.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 4 The Sequencer",
+      "title": "Audacity Lesson 4 Audio Clipping",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%204%20The%20Sequencer.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%204%20Audio%20Clipping.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 5 The Piano Roll",
+      "title": "Audacity Lesson 5 Audio Tracks",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%205v%20The%20Piano%20Roll.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%205%20Audio%20Tracks.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 6 Channel Settings Window",
+      "title": "Audacity Lesson 6 Increase and Decrease Volume",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%206%20Channel%20Settings%20Window.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%206%20Increase%20and%20Decrease%20Volume.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 7 Loading Third Party VST Plugins",
+      "title": "Audacity Lesson 7  Speed Pitch Tempo Effects",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%207%20Loading%20Third%20Party%20VST%20Plugins.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%207%20%20Speed%20Pitch%20Tempo%20Effects.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 8 Multiple Monitor Support and Detached mode",
+      "title": "Audacity Lesson 8 Record Audio from Computer Speakers  Sound Card",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%208%20Multiple%20Monitor%20Support%20and%20Detached%20mode.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%208%20Record%20Audio%20from%20Computer%20Speakers%20%20Sound%20Card.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 9 Automation Clips",
+      "title": "Audacity Lesson 9 Fun Effects",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%209%20Automation%20Clips.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%209%20Fun%20Effects.mp4"
     },{
       "id": 1,
       "name_category": "Beginner",
-      "title": "FL Studio Basics 10 32 Bit Floating Point",
+      "title": "Audacity Lesson 10 Noise Reduction & Remove Background Noice",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2010%2032%20Bit%20Floating%20Point.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 11 Parametric EQ 2",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2011%20Parametric%20EQ%202.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 12 Recording",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2012%20Recording.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 13 The Waveshaper",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2013%20The%20Waveshaper.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 14 The 'Selected' Mixer Insert",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2014%20The%20Selected%20Mixer%20Insert.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 15 Wave Candy",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2015%20Wave%20Candy.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 16 MIDI Routing",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2016%20MIDI%20Routing.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 17 The Convolver",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2017%20The%20Convolver.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 18 GMS",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2018%20GMS.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 19 Bassdrum",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2019%20Bassdrum.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 20 Master Pitch Fader",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2020%20Master%20Pitch%20Fader.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 21 Gross Beat",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2021%20Gross%20Beat.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 22 Effector",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2022%20Effector.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 23 Controller Linking",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2023%20Controller%20Linking.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "Fl Studio Basics 24 Peak Controller",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/Fl%20Studio%20Basics%2024%20%20Peak%20Controller.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 25 Control Surface",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2025%20Control%20Surface.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 26 Line Editors",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2026%20Line%20Editors.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 27 Fruity Limiter (Compression part 1)",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2027%20Fruity%20Limiter%20%28Compression%20part%201%29.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 28 Maximus (Compression part 2)",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2028%20Maximus%20%28Compression%20part%202%29.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 29 The Granulizer",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2029%20The%20Granulizer.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 30 The Love Philter",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2030%20The%20Love%20Philter.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 31 The Delay Bank",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2031%20The%20Delay%20Bank.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 32 Harmor Part 1 Additive Synthesis From The Ground Up",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2032%20Harmor%20Part%201%20Additive%20Synthesis%20From%20The%20Ground%20Up.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 33 Harmor Part 2 AdditiveSubtractive Filters",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2033%20Harmor%20Part%202%20Additive%20Subtractive%20Filters.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 34 Harmor Part 3 Additive Unison and The Hive Voice",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2034%20Harmor%20Part%203%20Additive%20Unison%20and%20The%20Hive%20Voice.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 35 Harmor Part 4 The Phaser",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2035%20Harmor%20Part%204%20The%20Phaser.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 36 Harmor Part 5 Pluck And Blur",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2036%20Harmor%20Part%205%20Pluck%20And%20Blur.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 37 Harmor Part 6 Image And Audio Resynthesis",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2037%20Harmor%20Part%206%20Image%20And%20Audio%20Resynthesis.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 38 Harmor Part 7 Global EQ vs Local EQ",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2038%20Harmor%20Part%207%20Global%20EQ%20vs%20Local%20EQ.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 39 Harmor Part 8 Harmonizer and Unit Order",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2039%20Harmor%20Part%208%20Harmonizer%20and%20Unit%20Order.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 40 Harmor Part 9 Prism",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2040%20Harmor%20Part%209%20Prism.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 41 Harmor Part 10 FX",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2041%20Harmor%20Part%2010%20FX.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 42 Harmor Part 11 Vibrato, Legato, Portamento, and Strum",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2042%20Harmor%20Part%2011%20Vibrato%20Legato%20Portamento%20and%20Strum.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 43 Harmor Part 12 Timbre",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2043%20Harmor%20Part%2012%20Timbre.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 44 Harmor Part 13 XYZ Modifier Mapping",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2044%20Harmor%20Part%2013%20XYZ%20Modifier%20Mapping.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 45 Harmor Part 14 Dual Parts",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2045%20Harmor%20Part%2014%20Dual%20Parts.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 46 Automation Min and Max settings",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2046%20Automation%20Min%20and%20Max%20settings.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 47 Harmor Part 15 The ADV Tab",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2047%20Harmor%20Part%2015%20The%20ADV%20Tab.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 48 Sidechain Organization (with example mix)",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2048%20Sidechain%20Organization%20%28with%20example%20mix%29.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 49 Sytrus Part 1 Operators",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2049%20Sytrus%20Part%201%20Operators.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 50 A very quick look at mixer offset in Slicex",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2050%20A%20very%20quick%20look%20at%20mixer%20offset%20in%20Slicex.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 51 Sytrus Part 2 Filters and The Matrix",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2051%20Sytrus%20Part%202%20Filters%20and%20The%20Matrix.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 52 Patcher",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2052%20Patcher.mp4"
-    },{
-      "id": 1,
-      "name_category": "Beginner",
-      "title": "FL Studio Basics 52 The Plugin Picker",
-      "type_file": "VIDEO",
-      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
-      "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiobeginner/FL%20Studio%20Basics%2052%20The%20Plugin%20Picker.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacitybeginnertutorial/Audacity%20Lesson%2010%20Noise%20Reduction%20%26%20Remove%20Background%20Noice.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "1.Basics Tutorial",
+      "title": "1.Import Audio From Video",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/1.Basics%20Tutorial.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/1.Import%20Audio%20From%20Video.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "2.The Channel Rack (Step Sequencer)",
+      "title": "2.Remove Silence and Improve Audio",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/2.The%20Channel%20Rack%20%28Step%20Sequencer%29.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/2.%20Remove%20Silence%20and%20Improve%20Audio.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "3.The Playlist",
+      "title": "3.Sound Generator",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/3.The%20%20Playlist.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/3.Sound%20Generator.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "4.The Mixer",
+      "title": "4.Vocoder Effect",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/4.The%20Mixer.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/4.Vocoder%20Effect.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "5.How To Record in FL Studio",
+      "title": "5.Adding Labels and Markers",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/5.How%20To%20Record.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/5.Adding%20Labels%20and%20Markers.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "6.Drum Programming",
+      "title": "6.record and edit audio",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/6.Drum%20Programming.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/6.record%20and%20edit%20audio.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "7.Best Export Settings",
+      "title": "7.Voice Over recording",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/7.Best%20Export%20Settings.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/7.Voice%20Over%20recording.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "8.How To Make Groups and Bus Channels In The Mixer",
+      "title": "8.Audacity Tutorial",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/8.How%20To%20Make%20Groups%20and%20Bus%20Channels%20In%20The%20Mixer.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/8.Audacity%20Tutorial.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "9.How To Sidechain",
+      "title": "9.Audacity Released",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/9.How%20To%20Sidechain.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/9.Audacity%20Released.mp4"
     },{
       "id": 1,
       "name_category": "Intermediate",
-      "title": "10.Vocal Processing",
+      "title": "10.Audacity Step by Step",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudiointermediate/10.Vocal%20Processing.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityintermediatetutorial/10.Audacity%20Step%20by%20Step.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "1.Essential Productivity and Workflow",
+      "title": "1.How to Record Audio",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/1.Essential%20Productivity%20and%20Workflow.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/1.How%20to%20Record%20Audio.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "2.How to Mix in FL Studio 20",
+      "title": "2.Demo of new interface and features",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/2.How%20to%20Mix.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/2.Demo%20of%20new%20interface%20and%20features.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "3.How To Use Automation Clips",
+      "title": "3.Audio Setup Button",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/3.How%20To%20Use%20Automation%20Clips.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/3.Audio%20Setup%20Button.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "4.Everything You Need To Know",
+      "title": "4.Professional Audacity Settings",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/4.Everything%20You%20Need%20To%20Know.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/4.Professional%20Audacity%20Settings.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "5.Gross Beat Tutorial",
+      "title": "5.How to Record",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/5.Gross%20Beat%20Tutorial.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/5.How%20to%20Record.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "6.How To Use Patcher",
+      "title": "6.Realtime FX, Audio Sharing and More",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/6.How%20To%20Use%20Patcher.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/6.Realtime%20FX%2C%20Audio%20Sharing%20and%20More.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "7.Newtone Tutorial",
+      "title": "7.Advanced Audio Editing Multitrack Editing",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/7.Newtone%20Tutorial.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/7.Advanced%20Audio%20Editing%20Multitrack%20Editing.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "8.Vocodex Tutorial",
+      "title": "8.How to Increase the Volume of Any Audio",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/8.Vocodex%20Tutorial.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/8.How%20to%20Increase%20the%20Volume%20of%20Any%20Audio.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "9.Advanced Mixer Tips and Tricks",
+      "title": "9.audio Editing Workshop",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/9.Advanced%20Mixer%20Tips%20and%20Tricks.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/9.audio%20Editing%20Workshop.mp4"
     },{
       "id": 1,
       "name_category": "Advanced",
-      "title": "10.Every Plugin In FL Studio Explained",
+      "title": "10.How to apply multiple effects",
       "type_file": "VIDEO",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://archive.org/download/fl-studio-basics-2-the-playlist/flstudio/flstudioadvance/10.Every%20Plugin.mp4"
+      "link": "https://archive.org/download/10.-audacity-step-by-step/audacity/audacityadvancedtutorial/10.How%20to%20apply%20multiple%20effects.mp4"
     },{
       "id": 1,
       "name_category": "More",
-      "title": "Configuring FL Studio",
+      "title": "The Foundation of Digital Audio The Sound Wave",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/1.%20Configuring%20FL%20Studio.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/1.%20The%20Foundation%20of%20Digital%20Audio%20The%20Sound%20Wave.pdf?raw=true"
     },{
       "id": 1,
       "name_category": "More",
-      "title": "Using Browser",
+      "title": "A Foundation for Audio The Sound Wave",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/2.%20Using%20Browser.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/1.1%20A%20Foundation%20for%20Audio%20The%20Sound%20Wave.pdf?raw=true"
     },{
       "id": 1,
       "name_category": "More",
-      "title": "Working with the",
+      "title": "The History of Digital Audio MIDI and Synthesis",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/3.%20Working%20with%20the.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/2.%20The%20History%20of%20Digital%20Audio%20MIDI%20and%20Synthesis.pdf?raw=true"
     },{
       "id": 1,
       "name_category": "More",
-      "title": "Building Your Song",
+      "title": "MIDI Data Your Musical Instrument Data Interface",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/4%2C%20Building%20Your%20Song.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/2.1%20MIDI%20Data%20Your%20Musical%20Instrument%20Data%20Interface.pdf?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
+      "title": "The Reproduction of Digital Audio Data Sampling",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/3.%20The%20Reproduction%20of%20Digital%20Audio%20Data%20Sampling.pdf?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
+      "title": "Data Sample Mathematics Amount of Binary Data",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/3.1%20Data%20Sample%20Mathematics%20Amount%20of%20Binary%20Data.pdf?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
+      "title": "The Transmission of Digital Audio Data Formats",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/4.%20The%20Transmission%20of%20Digital%20Audio%20Data%20Formats.pdf?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
+      "title": "Digital Audio Storage and Playback File Formats",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/4.1%20Digital%20Audio%20Storage%20and%20Playback%20File%20Formats.pdf?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
+      "title": "The Cleanup of Digital Audio Noise Removal",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/5.%20The%20Cleanup%20of%20Digital%20Audio%20Noise%20Removal.pdf?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
+      "title": "Noise Reduction Removing the Background Noise",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/5.1%20Noise%20Reduction%20Removing%20the%20Background%20Noise.pdf?raw=true"
     },{
       "id": 2,
       "name_category": "More",
-      "title": "Using the Playlist",
+      "title": "The Isolation of Digital Audio Trimming Tools",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/5.%20Using%20the%20Playlist.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/6.%20The%20Isolation%20of%20Digital%20Audio%20Trimming%20Tools.pdf?raw=true"
     },{
       "id": 2,
       "name_category": "More",
-      "title": "Using the FL Studio",
+      "title": "Scrubbing Digital Audio Sample Playback Rate",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/6.%20Using%20the%20FL%20Studio.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/6.1%20Scrubbing%20Digital%20Audio%20Sample%20Playback%20Rate.pdf?raw=true"
     },{
       "id": 2,
       "name_category": "More",
-      "title": "Sampling Using Edison",
+      "title": "The Manual Labor of Digital Audio Sample Editing",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/7.%20Sampling%20Using%20Edison.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/7.%20The%20Manual%20Labor%20of%20Digital%20Audio%20Sample%20Editing.pdf?raw=true"
     },{
       "id": 2,
       "name_category": "More",
-      "title": "Exporting and",
+      "title": "Algorithmic Sample Surgery Integrated Artifacts",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/8.%20Exporting%20and.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/7.1%20Algorithmic%20Sample%20Surgery%20Integrated%20Artifacts.pdf?raw=true"
+    },{
+      "id": 2,
+      "name_category": "More",
+      "title": "The Algorithms of Digital Audio Audio Processing",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/8.%20The%20Algorithms%20of%20Digital%20Audio%20Audio%20Processing.pdf?raw=true"
+    },{
+      "id": 2,
+      "name_category": "More",
+      "title": "Waveform Reverberation The Reverb Effect",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/8.1%20Waveform%20Reverberation%20The%20Reverb%20Effect.pdf?raw=true"
+    },{
+      "id": 2,
+      "name_category": "More",
+      "title": "A Visualization of Digital Audio Spectral Analysis",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/9.%20A%20Visualization%20of%20Digital%20Audio%20Spectral%20Analysis.pdf?raw=true"
+    },{
+      "id": 2,
+      "name_category": "More",
+      "title": "Frequency Spectrum Data Analysis Tools",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/9.1%20Frequency%20Spectrum%20Data%20Analysis%20Tools.pdf?raw=true"
     },{
       "id": 3,
       "name_category": "More",
-      "title": "Humanizing Your Song",
+      "title": "The Compositing of Digital Audio Using Tracks",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/9.%20Humanizing%20Your%20Song.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/10.%20The%20Compositing%20of%20Digital%20Audio%20Using%20Tracks.pdf?raw=true"
     },{
       "id": 3,
       "name_category": "More",
-      "title": "Recording Automation",
+      "title": "Adding Tracks Creating a New Track",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/10.%20Recording%20Automation.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/10.1%20Adding%20Tracks%20Creating%20a%20New%20Track.pdf?raw=true"
     },{
       "id": 3,
       "name_category": "More",
-      "title": "Rewiring Reason to",
+      "title": "The Synthesis of Digital Audio Tone Generation",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
-      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/flstudio/11.%20Rewiring%20Reason%20to.pdf?raw=true"
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/11.%20The%20Synthesis%20of%20Digital%20Audio%20Tone%20Generation.pdf?raw=true"
+    },{
+      "id": 3,
+      "name_category": "More",
+      "title": "Virtual Carnage The Fire and Explosion Generator",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/11.1%20Virtual%20Carnage%20The%20Fire%20and%20Explosion%20Generator.pdf?raw=true"
+    },{
+      "id": 3,
+      "name_category": "More",
+      "title": "The Data Footprint of Digital Audio Compression",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/12.%20The%20Data%20Footprint%20of%20Digital%20Audio%20Compression.pdf?raw=true"
+    },{
+      "id": 3,
+      "name_category": "More",
+      "title": "Exporting Lossy M4A Audio MPEG4 Audio Format",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/12.1%20Exporting%20Lossy%20M4A%20Audio%20MPEG4%20Audio%20Format.pdf?raw=true"
+    },{
+      "id": 3,
+      "name_category": "More",
+      "title": "The Interactivity of Digital Audio Programming",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/13.%20The%20Interactivity%20of%20Digital%20Audio%20Programming.pdf?raw=true"
+      },{
+      "id": 3,
+      "name_category": "More",
+      "title": "Digital Audio Content Delivery Platforms",
+      "type_file": "PDF",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/audacityy/13.1%20Digital%20Audio%20Content%20Delivery%20Platforms.pdf?raw=true"
     }
   ]
 }
