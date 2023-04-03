@@ -156,14 +156,310 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "What Is Mixing Mixing Course For Beginners [Lesson 1]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/What%20Is%20Mixing%20Mixing%20Course%20For%20Beginners%20%5BLesson%201%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Active Listening & Ear Training Mixing Course For Beginners [Lesson 2]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Active%20Listening%20%26%20Ear%20Training%20Mixing%20Course%20For%20Beginners%20%5BLesson%202%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Preparing Tracks & Session for Mixing Mixing Course For Beginners [Lesson 3]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Preparing%20Tracks%20%26%20Session%20for%20Mixing%20Mixing%20Course%20For%20Beginners%20%5BLesson%203%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Gain Staging Mixing Course For Beginners [Lesson 4]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Gain%20Staging%20Mixing%20Course%20For%20Beginners%20%5BLesson%204%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "EQ & Frequencies Mixing Course For Beginners [Lesson 5]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/EQ%20%26%20Frequencies%20Mixing%20Course%20For%20Beginners%20%5BLesson%205%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How To Use Compression Mixing Course For Beginners [Lesson 6]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/How%20To%20Use%20Compression%20Mixing%20Course%20For%20Beginners%20%5BLesson%206%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Saturator Dynamics Drum Buss and Erosion Mixing Course For Beginners [Lesson 7]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Saturator%20Dynamics%20Drum%20Buss%20and%20Erosion%20Mixing%20Course%20For%20Beginners%20%5BLesson%207%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Stereo Spectrum & Adding Width  Mixing Course For Beginners [Lesson 8]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Stereo%20Spectrum%20%26%20Adding%20Width%20%20Mixing%20Course%20For%20Beginners%20%5BLesson%208%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Reverb & Space Mixing Course For Beginners [Lesson 9]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Reverb%20%26%20Space%20Mixing%20Course%20For%20Beginners%20%5BLesson%209%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Vocal Mixing & Delays Flanger Chorus Ableton Live Mixing Course [Lesson 10]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Vocal%20Mixing%20%26%20Delays%20Flanger%20Chorus%20Ableton%20Live%20Mixing%20Course%20%5BLesson%2010%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Sends Returns & Group Tracks Mixing Course For Beginners [Lesson 11]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Sends%20Returns%20%26%20Group%20Tracks%20Mixing%20Course%20For%20Beginners%20%5BLesson%2011%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Audio FX Racks Vocal Preset & Chaining  Mixing Course For Beginners [Lesson 12]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Audio%20FX%20Racks%20Vocal%20Preset%20%26%20Chaining%20%20Mixing%20Course%20For%20Beginners%20%5BLesson%2012%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Automation Tricks & Tips Mixing Course For Beginners [Lesson 13]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/Automation%20Tricks%20%26%20Tips%20Mixing%20Course%20For%20Beginners%20%5BLesson%2013%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How To Adjust Volumes (Setting Levels) Mixing Course For Beginners [Lesson 14]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/beginner/How%20To%20Adjust%20Volumes%20%28Setting%20Levels%29%20Mixing%20Course%20For%20Beginners%20%5BLesson%2014%5D.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How To Finish Your Mix Mixing Course For Beginners [Lesson 15]",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/1.Warp%20Audio.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "1.Warp Audio",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/1.Warp%20Audio.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "2.Audio Effects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/2.Audio%20Effects.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "3.Session View",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/3.Session%20View.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "4.Tutorial for intermediate",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/4.Tutorial%20for%20intermediate.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "5.Audio Tracks",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/5.Audio%20Tracks.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "6.Midi Tracks",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/6.Midi%20Tracks.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "7.polyphonic Expression)",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/7.polyphonic%20Expression%29.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "8.Rack & Macros",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/8.Rack%20%26%20Macros.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "9.Session View",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/9.Session%20View.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "10.Live Recording",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/10.Live%20Recording.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "11.piano roll (midi editor)",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/11.piano%20roll%20%28midi%20editor%29.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "12.Deconstruction Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/intermediate/12.Deconstruction%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "1.Ableton Live 11",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/1.Ableton%20Live%2011.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "2.Use These MIDI Effects To Change Your Instrument",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/2.Use%20These%20MIDI%20Effects%20To%20Change%20Your%20Instrument.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "3.Music Production",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/3.Music%20Production.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "4.The BASICS of Samples",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/4.The%20BASICS%20of%20Samples.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "5.make these changes",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/5.make%20these%20changes.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "6.How To Use MIDI Controllers",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/6.How%20To%20Use%20MIDI%20Controllers.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "7.Ableton Live",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/7.Ableton%20Live.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "8.Music Production In",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/8.Music%20Production%20In.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "9.turn your beats into a REAL song",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/9.turn%20your%20beats%20into%20a%20REAL%20song.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "10.how to start your first song or beat",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/7.-ableton-live_202304/ableton/advanced/10.how%20to%20start%20your%20first%20song%20or%20beat.mp4"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "BASICS OF SOUND AND WAVES 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/1.%20BASICS%20OF%20SOUND%20AND%20WAVES/The%20Zero%20to%20Hero%20Guide%20-%20Mixing%20in%20Ableton%20Live%20-%20Fundamentals%20%26%20Mix%20Preperation%20(%20PDFDrive%20)_splitPDF_Page21-33.pdf?raw=true"
-    } ,{
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "BASICS OF SOUND AND WAVES 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -171,7 +467,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/1.%20BASICS%20OF%20SOUND%20AND%20WAVES/The%20Zero%20to%20Hero%20Guide%20-%20Mixing%20in%20Ableton%20Live%20-%20Fundamentals%20%26%20Mix%20Preperation%20(%20PDFDrive%20)_splitPDF_Page8-21.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "CRITICAL LISTENING",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -179,7 +475,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/2.%20CRITICAL%20LISTENING/2.1.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "THE ROOM",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -187,7 +483,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/3.%20THE%20ROOM/3.%201.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "MONITORING",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -195,7 +491,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/4.MONITORING/4.1.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "MONITORING 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -203,7 +499,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/4.MONITORING/4.2.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "STUDIO MONITORS - WHAT NOT TO DO",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -211,7 +507,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/5.%20STUDIO%20MONITORS%20-%20WHAT%20NOT%20TO%20DO/5.1.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "MIX PREPARATION 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -219,7 +515,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/10.%20MIX%20PREPARATION/10.1.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "MIX PREPARATION 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -227,7 +523,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/10.%20MIX%20PREPARATION/10.2.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "ACOUSTIC TREATMENT",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -235,7 +531,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/6.%20ACOUSTIC%20TREATMENT/6.%201.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "ACOUSTIC TREATMENT GUIDE 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -243,7 +539,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/7.%20ACOUSTIC%20TREATMENT%20GUIDE/71.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "ACOUSTIC TREATMENT GUIDE 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -251,7 +547,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/7.%20ACOUSTIC%20TREATMENT%20GUIDE/7.2.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "PHSYCHOACOUSTICS EXPLAINED 1",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -259,7 +555,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/8.%20PHSYCHOACOUSTICS%20EXPLAINED/8.%201.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "PHSYCHOACOUSTICS EXPLAINED 2",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -267,7 +563,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/8.%20PHSYCHOACOUSTICS%20EXPLAINED/8.2.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "MIXING TECHNOLOGY AND EQUIPMENT",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -275,7 +571,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/9.%20MIXING%20TECHNOLOGY%20AND%20EQUIPMENT/9.1.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "MIX PREP TRACK ANALYSIS",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -283,7 +579,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/11.%20MIX%20PREP%3B%20TRACK%20ANALYSIS/11.%201.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "GAIN STAGING",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -291,7 +587,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/12.%20GAIN%20STAGING/12.%201.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "GUIDE TO GAIN STAGING IN OUR MIX",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -299,7 +595,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/13.%20GUIDE%20TO%20GAIN%20STAGING%20IN%20OUR%20MIX/13.1.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "ABLETON'S MIXER ANATOMY ROUTING AND SIGNAL FLOW",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -307,7 +603,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/Ableton%20live/14.%20ABLETON'S%20MIXER%20ANATOMY%20ROUTING%20AND%20SIGNAL%20FLOW/14.%201.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "ROUTING, BUSSES AND GROUPS",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
