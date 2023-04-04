@@ -156,6 +156,246 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "1.How I Lineart",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/beginner/1.How%20I%20Lineart.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "2.Coloring Tutorial Speedpaint",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/beginner/2.Coloring%20Tutorial%20Speedpaint.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "3.How to draw and paint semirealism nose",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/beginner/3.How%20to%20draw%20and%20paint%20semirealism%20nose.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "4.Semirealism Skin Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/beginner/4.Semirealism%20Skin%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "5.How to Sketch a Face Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/beginner/5.How%20to%20Sketch%20a%20Face%20Tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "6.Beginner Tips & Tricks SIMPLE TUTORIAL",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/beginner/6.Beginner%20Tips%20&%20Tricks%20SIMPLE%20TUTORIAL.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "7.Soft painting Brush settings",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/beginner/7.Soft%20painting%20Brush%20settings.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "8.Semirealism Eye",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/beginner/8.Semirealism%20Eye.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "9.How I draw male hairs",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/beginner/9.How%20I%20draw%20male%20hairs.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "10.Greyscale Blending mode",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/beginner/10.Greyscale%20Blending%20mode.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "1.Dragon Digital Art Painting Animal Anatomy",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/intermediate/1.Dragon%20Digital%20Art%20Painting%20Animal%20Anatomy.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "2.Shading Elements",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/intermediate/2.Shading%20Elements.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "3.Coloring & Shading",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/intermediate/3.Coloring%20&%20Shading.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "4.How to Paint Better Backgrounds",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/intermediate/4.How%20to%20Paint%20Better%20Backgrounds.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "5.How to Blend - Art Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/intermediate/5.How%20to%20Blend%20-%20Art%20Tutorial.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "6.How I use Medibang Paint Pro",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/intermediate/6.How%20I%20use%20Medibang%20Paint%20Pro.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "7.Tips  Painting Process  Blending Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/intermediate/7.Tips%20%20Painting%20Process%20%20Blending%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "8.Painting With Medibang Paint Pro",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/intermediate/8.Painting%20With%20Medibang%20Paint%20Pro.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "9.ORANGE PUDDING FOOD ILLUSTRATION",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/intermediate/9.ORANGE%20PUDDING%20FOOD%20ILLUSTRATION.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "10.how Juniblue pick soft color on medibang paint",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/intermediate/10.how%20Juniblue%20pick%20soft%20color%20on%20medibang%20paint.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "1.How to Use MEDIBANG Paint Pro Digital Art Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/1.How%20to%20Use%20MEDIBANG%20Paint%20Pro%20Digital%20Art%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "2.MEDIBANG Paint Pro Tutorial Advanced Tips & Tricks",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/2.MEDIBANG%20Paint%20Pro%20Tutorial%20Advanced%20Tips%20%26%20Tricks.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "3.Medibang Tutorial on iPad & Android",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/advanced/3.Medibang%20Tutorial%20on%20iPad%20&%20Android.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "4.How to PAINT FUR",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/4.How%20to%20PAINT%20FUR.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "5.WAYS to get MORE BRUSHES",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/5.WAYS%20to%20get%20MORE%20BRUSHES.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "6.BACKGROUND TIPS Paint Pro",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/6.BACKGROUND%20TIPS%20Paint%20Pro.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "7.Painting SOFT FUR Paint Pro",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/advanced/7.Painting%20SOFT%20FUR%20Paint%20Pro.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "8.How to PAINT your DRAGON Paint Pro",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/8.How%20to%20PAINT%20your%20DRAGON%20Paint%20Pro.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "9.HOW TO DRAW a WOLF digital art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/8.-painting-with-medibang-paint-pro/advanced/9.HOW%20TO%20DRAW%20a%20WOLF%20digital%20art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "10.How to Draw realistic fur",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/medibang/advanced/10.How%20to%20Draw%20realistic%20fur.mp4?raw=true"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "Introduction",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -163,7 +403,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Introduction.html?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "How to change the default brush size",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -171,7 +411,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/How%20to%20change%20the%20default%20brush%20size.html?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Learn the basic screen composition",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -179,7 +419,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Learn%20the%20basic%20screen%20composition.html?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Layer window",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -187,7 +427,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Layer%20window.html?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Fill it in a bucket in a stroke",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -195,7 +435,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Fill%20it%20in%20a%20bucket%20in%20a%20stroke.html?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "About anti-aliasing",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -203,7 +443,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/About%20anti-aliasing.html?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "About options before saving",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -211,7 +451,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/About%20options%20before%20saving.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Learn the basic tools",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -219,7 +459,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Learn%20the%20basic%20tools.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Learn the various rotation methods",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -227,7 +467,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Learn%20the%20various%20rotation%20methods.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Let’s change the canvas size",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -235,7 +475,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20change%20the%20canvas%20size.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Let’s change the resolution",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -243,7 +483,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20change%20the%20resolution.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Let’s draw manga",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -251,7 +491,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20draw%20manga.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Let’s draw with a brush and eraser",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -259,7 +499,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20draw%20with%20a%20brush%20and%20eraser.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Let’s make an artwork",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -267,7 +507,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20make%20an%20artwork.html?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Let’s open the saved file",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -275,7 +515,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20open%20the%20saved%20file.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Let’s save the work",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -283,7 +523,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20save%20the%20work.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Let’s start MediBang Paint",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -291,7 +531,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20start%20MediBang%20Paint.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Let’s use the layer function",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -299,7 +539,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20use%20the%20layer%20function.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Let’s use the selection tool",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -307,7 +547,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20use%20the%20selection%20tool.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Let’s use transformation",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -315,7 +555,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Let%E2%80%99s%20use%20transformation.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Network panel",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -323,7 +563,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/Network%20panel.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "New dialog",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -331,7 +571,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/MEDIBANG%20PAINT/New%20dialog.html?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Reset brush size",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
