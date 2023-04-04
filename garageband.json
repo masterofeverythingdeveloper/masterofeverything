@@ -153,17 +153,257 @@
     }
   ],
   "Data": [
-   {
+    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "What Apple DOESN'T Tell You_ GarageBand for Beginners",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/What%20Apple%20DOESN%27T%20Tell%20You_%20GarageBand%20for%20Beginners.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How to Set Up YOUR Audio Interface on Mac",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/How%20to%20Set%20Up%20YOUR%20Audio%20Interface%20on%20Mac.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "5 Tips That Will Change Your Vocal Mixes Forever",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/5%20Tips%20That%20Will%20Change%20Your%20Vocal%20Mixes%20Forever.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Ultimate Guide to Track Headers __ GarageBand Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/The%20Ultimate%20Guide%20to%20Track%20Headers%20__%20GarageBand%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "5 Things You're Doing WRONG in GarageBand for Mac",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/5%20Things%20You%27re%20Doing%20WRONG%20in%20GarageBand%20for%20Mac.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How to EQ in GarageBand __ GarageBand EQ Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/How%20to%20EQ%20in%20GarageBand%20__%20GarageBand%20EQ%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How to Sample in GarageBand __ GarageBand Sampling Tutorial 2022",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/How%20to%20Sample%20in%20GarageBand%20__%20GarageBand%20Sampling%20Tutorial%202022.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "The Secret to GREAT Recordings",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/The%20Secret%20to%20GREAT%20Recordings.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "How to use GarageBand Automation __ 3 Tips You NEED to know!",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/How%20to%20use%20GarageBand%20Automation%20__%203%20Tips%20You%20NEED%20to%20know%21.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "Can You STOP GarageBand Apple Loop Copyright Claims_",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/beginner/Can%20You%20STOP%20GarageBand%20Apple%20Loop%20Copyright%20Claims_.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "1.The One You've Been Waiting For",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/1.The%20One%20You%27ve%20Been%20Waiting%20For.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "2.Share GarageBand projects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/2.Share%20GarageBand%20projects.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "3.Want to Mix PRO Vocals",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/3.Want%20to%20Mix%20PRO%20Vocals.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "4.Loops suck Make your own",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/4.Loops%20suck%20Make%20your%20own.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "5.How to Fix your timing",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/5.How%20to%20Fix%20your%20timing.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "6.Piano's are trash. Here's how you can fix them",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/6.Piano%27s%20are%20trash.%20Here%27s%20how%20you%20can%20fix%20them.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "7.How to Reverse Audio",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/7.How%20to%20Reverse%20Audio.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "8.How to use Autotune",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/8.How%20to%20use%20Autotune.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "9.How to Master",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/9.How%20to%20Master.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "10.Make GarageBand Drums sound so good you'll want to sack your real drummer",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/intermediate/10.Make%20GarageBand%20Drums%20sound%20so%20good%20you%27ll%20want%20to%20sack%20your%20real%20drummer.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "1.The GarageBand Quick Start Guide",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/1.The%20GarageBand%20Quick%20Start%20Guide.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "2.How To Record Audio and MIDI at the Same Time",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/2.How%20To%20Record%20Audio%20and%20MIDI%20at%20the%20Same%20Time.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "3.How to Install Plugins",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/3.How%20to%20Install%20Plugins.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "4.Instrument Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/4.Instrument%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "5.Ways to Connect Your Guitar",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/5.Ways%20to%20Connect%20Your%20Guitar.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "6.How to Record",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/6.How%20to%20Record.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "7.How To Sample",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/7.How%20To%20Sample.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "8.How To Export Your Projects",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/8.How%20To%20Export%20Your%20Projects.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "9.How To Fix Your Timing",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/9.How%20To%20Fix%20Your%20Timing.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "10.How To Change the Tempo",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/3.-want-to-mix-pro-vocals/garageband/advanced/10.How%20To%20Change%20the%20Tempo.mp4"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "In the Beginning",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/1.%20In%20the%20Beginning.pdf?raw=true"
-    } ,{
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Equipping and Setting Up Your",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -171,7 +411,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/2.%20Equipping%20and%20Setting%20Up%20Your.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "GarageBand Preferences",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -179,7 +419,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/3.%20GarageBand%20Preferences.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Introducing Multitrack Recording",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -187,7 +427,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/4.%20Introducing%20Multitrack%20Recording.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "It (Usually) Starts with a Loop",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -195,7 +435,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/5.%20It%20(Usually)%20Starts%20with%20a%20Loop.pdf?raw=true"
     },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Recording with MIDI and",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -203,7 +443,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/6.%20Recording%20with%20MIDI%20and.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Recording Vocals and",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -211,7 +451,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/7.%20Recording%20Vocals%20and.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Recording Electric Guitars and",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -219,7 +459,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/8.%20Recording%20Electric%20Guitars%20and.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Editing and Polishing Tracks",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -227,7 +467,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/9.%20Editing%20and%20Polishing%20Tracks.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Mixing Tracks into Songs",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -235,7 +475,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/10.%20Mixing%20Tracks%20into%20Songs.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "To Master Mastering",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -243,7 +483,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/11.%20To%20Master%20Mastering.pdf?raw=true"
     },{
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "CD Recording, Reproduction",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -251,7 +491,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/12.%20CD%20Recording%2C%20Reproduction%2C.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Creating Smaller Audio Files for",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -259,7 +499,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/13.%20Creating%20Smaller%20Audio%20Files%20for.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Using GarageBand Recordings",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -267,7 +507,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/14.%20Using%20GarageBand%20Recordings.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Ten Handy GarageBand Add-Ons",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -275,7 +515,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/15.%20Ten%20Handy%20GarageBand%20Add-Ons.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Ten Ways to Improve",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -283,7 +523,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/16.%20Ten%20Ways%20to%20Improve.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Ten Ways to Take Your Recordings",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -291,7 +531,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/garageband/17.%20Ten%20Ways%20to%20Take%20Your%20Recordings.pdf?raw=true"
     },{
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Ten Useful Web Sites",
       "type_file": "PDF",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
