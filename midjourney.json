@@ -157,14 +157,254 @@
    {
       "id": 1,
       "name_category": "Beginner",
+      "title": "1.Full Beginners Guide to AI Art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/1.Full%20Beginners%20Guide%20to%20AI%20Art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "2.How to use Text Weights",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/2.How%20to%20use%20Text%20Weights.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "3.How much do Midjourney AI fast hours ACTUALLY",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/3.How%20much%20do%20Midjourney%20AI%20fast%20hours%20ACTUALLY.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "4.How to use Stylize",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/4.How%20to%20use%20Stylize.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "5.Discord Tips for Midjourney AI",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/5.Discord%20Tips%20for%20Midjourney%20AI.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "6.How to use Reference Images & Image Weights",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/6.How%20to%20use%20Reference%20Images%20%26%20Image%20Weights.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "7.Are you writing your Text Prompts WRONG",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/7.Are%20you%20writing%20your%20Text%20Prompts%20WRONG.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "8.Prompt Crafting Tutorial",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/8.Prompt%20Crafting%20Tutorial.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "9.How to use REMIX",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/9.How%20to%20use%20REMIX.mp4"
+    },{
+      "id": 1,
+      "name_category": "Beginner",
+      "title": "10.Fix Midjourney imperfections using DALL-E",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/beginner/10.Fix%20Midjourney%20imperfections%20using%20DALL-E.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "1.Guide to Make Money with Midjourney AI Art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/1.Guide%20to%20Make%20Money%20with%20Midjourney%20AI%20Art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "2.How to use Midjourney AI Art ART STYLES & TIPS",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/2.How%20to%20use%20Midjourney%20AI%20Art%20ART%20STYLES%20%26%20TIPS.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "3.Midjourney Tutorial Maximise & Upscale your Midjourney AI Art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/3.Midjourney%20Tutorial%20Maximise%20%26%20Upscale%20your%20Midjourney%20AI%20Art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "4.Midjourney Tips & Tricks",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/4.Midjourney%20Tips%20%26%20Tricks.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "5.My Process for better AI Art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/5.My%20Process%20for%20better%20AI%20Art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "6.Midjourney Style Guide",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/6.Midjourney%20Style%20Guide.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "7.Midjourney's OLD to NEW AI Art Algorithms",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/7.Midjourney%27s%20OLD%20to%20NEW%20AI%20Art%20Algorithms.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "8.Sell AI Art on Print on Demand platforms for PASSIVE INCOME",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/8.Sell%20AI%20Art%20on%20Print%20on%20Demand%20platforms%20for%20PASSIVE%20INCOME.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "9.AI Art Course",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/9.AI%20Art%20Course.mp4"
+    },{
+      "id": 1,
+      "name_category": "Intermediate",
+      "title": "10.How to Upscale Midjourney Images for Print",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/intermediate/10.How%20to%20Upscale%20Midjourney%20Images%20for%20Print.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "1.Advanced Character Design in Midjourney AI",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/1.Advanced%20Character%20Design%20in%20Midjourney%20AI.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "2.Best AI Art generators & AI tools to create better artwork",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/2.Best%20AI%20Art%20generators%20%26%20AI%20tools%20to%20create%20better%20artwork.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "3.Midjourney Prompt Tips Codes & Tricks",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/3.Midjourney%20Prompt%20Tips%20Codes%20%26%20Tricks.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "4.BEST AI Art Generator Dall E 2 vs Midjourney vs Stable Diffusion",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/4.BEST%20AI%20Art%20Generator%20Dall%20E%202%20vs%20Midjourney%20vs%20Stable%20Diffusion.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "5.UPSCALE AI ART 6x with Topaz Gigapixel",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/5.UPSCALE%20AI%20ART%206x%20with%20Topaz%20Gigapixel.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "6.How to use Midjourney AI different AI Art Algorithms",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/6.How%20to%20use%20Midjourney%20AI%20different%20AI%20Art%20Algorithms.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "7.Midjourney Prompt Generator Improve your AI Art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/7.Midjourney%20Prompt%20Generator%20Improve%20your%20AI%20Art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "8.Midjourney Prompt Tips Codes & Tricks WHAT STILL WORKS",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/8.Midjourney%20Prompt%20Tips%20Codes%20%26%20Tricks%20WHAT%20STILL%20WORKS.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "9.PHOTOBASH Tutorial Using AI Art & Photoshop for Unique Digital Art",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/9.PHOTOBASH%20Tutorial%20Using%20AI%20Art%20%26%20Photoshop%20for%20Unique%20Digital%20Art.mp4"
+    },{
+      "id": 1,
+      "name_category": "Advanced",
+      "title": "10.Fix Hand Faces & Errors from Midjourney AI Art in Photoshop",
+      "type_file": "VIDEO",
+      "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
+      "description": "Deskripsi",
+      "link": "https://archive.org/download/1.-full-beginners-guide-to-ai-art/midjourney/advanced/10.Fix%20Hand%20Faces%20%26%20Errors%20from%20Midjourney%20AI%20Art%20in%20Photoshop.mp4"
+    },{
+      "id": 1,
+      "name_category": "More",
       "title": "Advanced Prompts Image Prompts",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
       "description": "Deskripsi",
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Advanced%20Prompts%20Image%20Prompts.html?raw=true"
-    } , {
+    },{
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Advanced Prompts Multi Prompts",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -172,7 +412,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Advanced%20Prompts%20Multi%20Prompts.html?raw=true"
     } , {
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Advanced Prompts Remix",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -180,7 +420,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Advanced%20Prompts%20Remix.html?raw=true"
     } , {
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Aspect Ratios",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -188,7 +428,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Aspect%20Ratios.html?raw=true"
     } , {
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Blend",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -196,7 +436,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Blend.html?raw=true"
     } , {
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Chaos",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -204,7 +444,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Chaos.html?raw=true"
     } , {
       "id": 1,
-      "name_category": "Beginner",
+      "name_category": "More",
       "title": "Command list",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -212,7 +452,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Command%20list.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Command list",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -220,7 +460,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Discord%20Interface.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Explore Prompting",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -228,7 +468,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Explore%20Prompting.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Getting Started",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -236,7 +476,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Getting%20Started.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "Next Steps Prompts",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -244,7 +484,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Next%20Steps%20Prompts.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "parameter list",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -252,7 +492,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/parameter%20list.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "quality",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -260,7 +500,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/quality.html?raw=true"
     } , {
       "id": 2,
-      "name_category": "Intermediate",
+      "name_category": "More",
       "title": "seeds",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -268,7 +508,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/seeds.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Setting and Presets",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -276,7 +516,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Setting%20and%20presets.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Show Job",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -284,7 +524,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Show%20Job.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Stop",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -292,7 +532,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Stop.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Stylize",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -300,7 +540,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Stylize.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Upscalers",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -308,7 +548,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Upscalers.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Version",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -316,7 +556,7 @@
       "link": "https://github.com/masterofeverythingdeveloper/konten/blob/main/midjourney/Version.html?raw=true"
     } , {
       "id": 3,
-      "name_category": "Advanced",
+      "name_category": "More",
       "title": "Tile",
       "type_file": "HTML",
       "image": "https://wallpaperhub.space/bigprojek/learning/moe/image/list.png",
@@ -325,4 +565,3 @@
     }       
   ]
 }
-      
